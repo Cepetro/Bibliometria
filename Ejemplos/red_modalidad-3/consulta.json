@@ -1,0 +1,814 @@
+{
+  "tema": "modality",
+  "subareas": [],
+  "subareas_texto": "toda la filosofía",
+  "criterio": "cualquiera",
+  "filtro_temas_openalex": "topics.id:T10258|T10297|T10718|T10738|T10778|T10883|T11010|T11137|T11463|T11477|T11592|T11953|T11997|T12133|T12160|T12170|T12295|T12308|T12320|T12366|T12397|T12440|T12511|T12517|T12558|T12723|T12726|T12777|T12819|T12857|T12889|T12957|T13087|T13119|T13144|T13147|T13150|T13153|T13264|T13308|T13351|T13462|T13497|T13545|T13558|T13610|T13660|T13661|T13712|T13783|T13887|T13902|T13908|T13931|T13933|T13940|T14024|T14059|T14080|T14092|T14123|T14148|T14198|T14278|T14300|T14307|T14314|T14371|T14401|T14460|T14511",
+  "desde": null,
+  "hasta": null,
+  "limite_por_fuente": 1500,
+  "limite_google": 40,
+  "fecha_consulta_utc": "2026-11-25T16:18:03+00:00",
+  "fuentes": {
+    "openalex": {
+      "estado": "ok",
+      "registros": 1500,
+      "consulta": {
+        "search.title_and_abstract": "modality",
+        "filter": "type:article,topics.id:T10258|T10297|T10718|T10738|T10778|T10883|T11010|T11137|T11463|T11477|T11592|T11953|T11997|T12133|T12160|T12170|T12295|T12308|T12320|T12366|T12397|T12440|T12511|T12517|T12558|T12723|T12726|T12777|T12819|T12857|T12889|T12957|T13087|T13119|T13144|T13147|T13150|T13153|T13264|T13308|T13351|T13462|T13497|T13545|T13558|T13610|T13660|T13661|T13712|T13783|T13887|T13902|T13908|T13931|T13933|T13940|T14024|T14059|T14080|T14092|T14123|T14148|T14198|T14278|T14300|T14307|T14314|T14371|T14401|T14460|T14511",
+        "per_page": 100
+      },
+      "coincidencias": 23575,
+      "paginas": 15,
+      "en_corpus": 1500
+    },
+    "crossref": {
+      "estado": "ok",
+      "registros": 1500,
+      "consulta": {
+        "query": "modality",
+        "filter": "type:journal-article",
+        "rows": 100
+      },
+      "coincidencias": 24403,
+      "paginas": 15,
+      "en_corpus": 80
+    },
+    "oupcup": {
+      "estado": "ok",
+      "registros": 1033,
+      "consulta": {
+        "query": "modality",
+        "filter": "type:journal-article,member:286,member:56",
+        "rows": 100
+      },
+      "coincidencias": 1033,
+      "paginas": 12,
+      "en_corpus": 123
+    },
+    "philpapers": {
+      "estado": "ok",
+      "registros": 1500,
+      "consulta": {
+        "search.title_and_abstract": "modality",
+        "filter": "type:article,locations.source.id:S4306402130",
+        "per_page": 100
+      },
+      "coincidencias": 2007,
+      "paginas": 15,
+      "en_corpus": 1500
+    },
+    "scopus": {
+      "estado": "omitida",
+      "detalle": "falta la variable de entorno SCOPUS_API_KEY"
+    },
+    "springer": {
+      "estado": "error",
+      "detalle": "Springer Nature denegó el acceso (HTTP 403): �dO�jA��u��*i\\�p�*({[�[-�����:W��%mŃcx�ˉ�Q>� w�!_�&�P��8\\�UЁä��.;��� ���~�����Z��7('�Y�7����Iі�U��8k.�m��� �`��v���Ղ�|z����!��65bwɟ[�T����cԑ|"
+    },
+    "google": {
+      "estado": "omitida",
+      "detalle": "falta la variable de entorno SERPAPI_API_KEY"
+    }
+  },
+  "fuentes_texto": "OpenAlex (1500), Crossref (80), OUP y CUP (Crossref) (123), PhilPapers (1500)",
+  "enriquecimiento": {
+    "openalex": {
+      "doi_consultados": 2369,
+      "encontrados": 2369,
+      "consultas_por_lote": 48,
+      "consultas_individuales": 127
+    },
+    "crossref": {
+      "doi_consultados": 2180,
+      "consultas": 55
+    }
+  },
+  "descartados": {
+    "fuera_de_filosofia": 1797,
+    "no_es_articulo": 444
+  },
+  "articulos": 2915,
+  "citas_internas": 5332,
+  "sin_referencias_enlazadas": 651,
+  "aislados": 1057,
+  "modo_solicitado": "auto",
+  "metrica_ranking": "dirigido",
+  "nodos_vista": 40,
+  "normalizacion": "L2 global; empates de puntuación a tolerancia relativa 1e-9",
+  "medidas": {
+    "dirigido": {
+      "radio_espectral": 1.7590110643533237,
+      "nota": "Centralidad entrante. Sólo pueden puntuar el bloque dominante final y los artículos que alcanza.",
+      "articulos_positivos": 214
+    },
+    "simetrico": {
+      "radio_espectral": 19.17923478215534,
+      "nota": "Vector propio global de la red sin orientación. Las componentes de menor radio reciben cero.",
+      "articulos_positivos": 1726
+    }
+  },
+  "referencias_sin_doi": {
+    "leidas": 12098,
+    "enlazadas": 10
+  },
+  "nodos_vista_autores": 40,
+  "autores": {
+    "autores": 2532,
+    "con_id_openalex": 2362,
+    "solo_nombre": 170,
+    "autorias_unidas_por_nombre": 11,
+    "citas_entre_autores": 8290,
+    "autocitas_excluidas": 610,
+    "metrica_ranking": "pagerank",
+    "pagerank_alfa": 0.85,
+    "nota": "Orden: PageRank, citas internas, citas globales y nombre."
+  },
+  "clusters": {
+    "resolucion": 1.0,
+    "min_cluster": 3,
+    "vecinos_similitud": 15,
+    "metodos": {
+      "louvain_dirigido": {
+        "nombre": "Louvain dirigido",
+        "disponible": true,
+        "nota": "",
+        "clusters": 30,
+        "articulos_asignados": 1806,
+        "cobertura": 0.6195540308747856,
+        "modularidad_propia": 0.722291037875748,
+        "modularidad_citas": 0.722291037875748,
+        "coherencia_tematica": 0.6572535991140642,
+        "coherencia_base": 0.3117386489479513,
+        "nmi_temas": 0.4080056199425139
+      },
+      "leiden": {
+        "nombre": "Leiden dirigido",
+        "disponible": true,
+        "nota": "",
+        "clusters": 31,
+        "articulos_asignados": 1806,
+        "cobertura": 0.6195540308747856,
+        "modularidad_propia": 0.7245740659658538,
+        "modularidad_citas": 0.7245740659658538,
+        "coherencia_tematica": 0.6423034330011074,
+        "coherencia_base": 0.3117386489479513,
+        "nmi_temas": 0.4100805260667817
+      },
+      "infomap": {
+        "nombre": "Infomap",
+        "disponible": true,
+        "nota": "",
+        "clusters": 154,
+        "articulos_asignados": 1741,
+        "cobertura": 0.5972555746140652,
+        "modularidad_propia": 0.5736655117455283,
+        "modularidad_citas": 0.5736655117455283,
+        "coherencia_tematica": 0.7208500861573808,
+        "coherencia_base": 0.3141872487076393,
+        "nmi_temas": 0.40516908416358705
+      },
+      "acoplamiento": {
+        "nombre": "Acoplamiento bibliográfico",
+        "disponible": true,
+        "nota": "",
+        "clusters": 13,
+        "articulos_asignados": 2158,
+        "cobertura": 0.7403087478559177,
+        "modularidad_propia": 0.6640973359879141,
+        "modularidad_citas": 0.4985050416767733,
+        "coherencia_tematica": 0.6075069508804448,
+        "coherencia_base": 0.2808155699721965,
+        "nmi_temas": 0.41310137229152877
+      },
+      "cocitacion": {
+        "nombre": "Cocitación",
+        "disponible": true,
+        "nota": "",
+        "clusters": 24,
+        "articulos_asignados": 1067,
+        "cobertura": 0.3660377358490566,
+        "modularidad_propia": 0.7551606527915251,
+        "modularidad_citas": 0.34753721954494626,
+        "coherencia_tematica": 0.6813495782567948,
+        "coherencia_base": 0.3364573570759138,
+        "nmi_temas": 0.41222788098643115
+      },
+      "espectral": {
+        "nombre": "Espectral bibliométrico",
+        "disponible": true,
+        "nota": "3 componentes con al menos 3 artículos; la de 2282 artículos se dividió en 14, la de 6 artículos se dividió en 2.",
+        "clusters": 16,
+        "articulos_asignados": 2289,
+        "cobertura": 0.7852487135506003,
+        "modularidad_propia": 0.6601525404686684,
+        "modularidad_citas": 0.626754154311271,
+        "coherencia_tematica": 0.5910878112712975,
+        "coherencia_base": 0.2817824377457405,
+        "nmi_temas": 0.41082871610432087,
+        "componentes_espectrales": [
+          {
+            "articulos": 2282,
+            "k": 14,
+            "modularidad": 0.6603
+          },
+          {
+            "articulos": 3,
+            "k": 1,
+            "modularidad": 0.0
+          },
+          {
+            "articulos": 6,
+            "k": 2,
+            "modularidad": 0.0794
+          }
+        ]
+      }
+    },
+    "concordancia": [
+      {
+        "a": "louvain_dirigido",
+        "b": "leiden",
+        "comunes": 1806,
+        "ari": 0.6356965776928132,
+        "nmi": 0.7843705631371815
+      },
+      {
+        "a": "louvain_dirigido",
+        "b": "infomap",
+        "comunes": 1741,
+        "ari": 0.27393538099121884,
+        "nmi": 0.6626681841651364
+      },
+      {
+        "a": "louvain_dirigido",
+        "b": "acoplamiento",
+        "comunes": 1669,
+        "ari": 0.35254117304839544,
+        "nmi": 0.5374472085961925
+      },
+      {
+        "a": "louvain_dirigido",
+        "b": "cocitacion",
+        "comunes": 1067,
+        "ari": 0.47245804911266404,
+        "nmi": 0.6618868311945297
+      },
+      {
+        "a": "louvain_dirigido",
+        "b": "espectral",
+        "comunes": 1800,
+        "ari": 0.39810064014087987,
+        "nmi": 0.577820106207008
+      },
+      {
+        "a": "leiden",
+        "b": "infomap",
+        "comunes": 1741,
+        "ari": 0.2388823962951035,
+        "nmi": 0.6500092754873984
+      },
+      {
+        "a": "leiden",
+        "b": "acoplamiento",
+        "comunes": 1669,
+        "ari": 0.36973783248312503,
+        "nmi": 0.552493434598701
+      },
+      {
+        "a": "leiden",
+        "b": "cocitacion",
+        "comunes": 1067,
+        "ari": 0.4347437988083052,
+        "nmi": 0.6501075189367465
+      },
+      {
+        "a": "leiden",
+        "b": "espectral",
+        "comunes": 1800,
+        "ari": 0.4680784483747319,
+        "nmi": 0.598554246118412
+      },
+      {
+        "a": "infomap",
+        "b": "acoplamiento",
+        "comunes": 1618,
+        "ari": 0.1415489860595589,
+        "nmi": 0.48721550259461077
+      },
+      {
+        "a": "infomap",
+        "b": "cocitacion",
+        "comunes": 1035,
+        "ari": 0.20353605776600192,
+        "nmi": 0.5810915714121775
+      },
+      {
+        "a": "infomap",
+        "b": "espectral",
+        "comunes": 1736,
+        "ari": 0.1489211509854062,
+        "nmi": 0.5039052380364947
+      },
+      {
+        "a": "acoplamiento",
+        "b": "cocitacion",
+        "comunes": 939,
+        "ari": 0.33137161247189306,
+        "nmi": 0.5080695241461414
+      },
+      {
+        "a": "acoplamiento",
+        "b": "espectral",
+        "comunes": 2156,
+        "ari": 0.4306173395185198,
+        "nmi": 0.5648178434268956
+      },
+      {
+        "a": "cocitacion",
+        "b": "espectral",
+        "comunes": 1067,
+        "ari": 0.4916254438005514,
+        "nmi": 0.6573796210316327
+      }
+    ]
+  },
+  "libros_oup_cup": {
+    "libros": 1298,
+    "citas": 4275,
+    "articulos_que_citan": 1007,
+    "consultados": 1000,
+    "con_metadatos": 999,
+    "con_referencias": 260
+  },
+  "versiones": {
+    "libros": {
+      "nodos": 1000,
+      "libros": 1000,
+      "articulos": 0,
+      "enlaces": 10080,
+      "metrica_ranking": "simetrico",
+      "medidas": {
+        "dirigido": {
+          "radio_espectral": null,
+          "nota": "La red de libros no tiene orientación: suma cocitaciones y citas en ambos sentidos. Se usa el vector propio con pesos.",
+          "articulos_positivos": null
+        },
+        "simetrico": {
+          "radio_espectral": 136.63702304967683,
+          "nota": "Vector propio global de la red sin orientación. Las componentes de menor radio reciben cero.",
+          "articulos_positivos": 962
+        }
+      },
+      "pares_cocitados": 8558,
+      "citas_directas": 1863,
+      "libros_con_referencias": 260,
+      "autores": {
+        "autores": 1002,
+        "con_id_openalex": 0,
+        "solo_nombre": 1002,
+        "autorias_unidas_por_nombre": 0,
+        "citas_entre_autores": 23184,
+        "autocitas_excluidas": 181,
+        "metrica_ranking": "pagerank",
+        "pagerank_alfa": 0.85,
+        "nota": "Orden: PageRank, citas internas, citas globales y nombre."
+      },
+      "clusters": {
+        "resolucion": 1.0,
+        "min_cluster": 3,
+        "vecinos_similitud": 15,
+        "metodos": {
+          "louvain_dirigido": {
+            "nombre": "Louvain dirigido",
+            "disponible": true,
+            "nota": "",
+            "clusters": 11,
+            "articulos_asignados": 962,
+            "cobertura": 0.962,
+            "modularidad_propia": 0.4866166460578546,
+            "modularidad_citas": 0.4866166460578546,
+            "coherencia_tematica": null,
+            "coherencia_base": null,
+            "nmi_temas": null
+          },
+          "leiden": {
+            "nombre": "Leiden dirigido",
+            "disponible": true,
+            "nota": "",
+            "clusters": 11,
+            "articulos_asignados": 962,
+            "cobertura": 0.962,
+            "modularidad_propia": 0.48988521191225703,
+            "modularidad_citas": 0.48988521191225703,
+            "coherencia_tematica": null,
+            "coherencia_base": null,
+            "nmi_temas": null
+          },
+          "infomap": {
+            "nombre": "Infomap",
+            "disponible": true,
+            "nota": "",
+            "clusters": 35,
+            "articulos_asignados": 960,
+            "cobertura": 0.96,
+            "modularidad_propia": 0.4430692295013266,
+            "modularidad_citas": 0.4430692295013266,
+            "coherencia_tematica": null,
+            "coherencia_base": null,
+            "nmi_temas": null
+          },
+          "acoplamiento": {
+            "nombre": "Acoplamiento bibliográfico",
+            "disponible": true,
+            "nota": "",
+            "clusters": 7,
+            "articulos_asignados": 253,
+            "cobertura": 0.253,
+            "modularidad_propia": 0.5119742814064596,
+            "modularidad_citas": 0.017414330500798242,
+            "coherencia_tematica": null,
+            "coherencia_base": null,
+            "nmi_temas": null
+          },
+          "cocitacion": {
+            "nombre": "Cocitación",
+            "disponible": true,
+            "nota": "",
+            "clusters": 15,
+            "articulos_asignados": 962,
+            "cobertura": 0.962,
+            "modularidad_propia": 0.7195087831173025,
+            "modularidad_citas": 0.4580740735737813,
+            "coherencia_tematica": null,
+            "coherencia_base": null,
+            "nmi_temas": null
+          },
+          "espectral": {
+            "nombre": "Espectral bibliométrico",
+            "disponible": true,
+            "nota": "1 componentes con al menos 3 artículos; la de 964 artículos se dividió en 13.",
+            "clusters": 13,
+            "articulos_asignados": 964,
+            "cobertura": 0.964,
+            "modularidad_propia": 0.6868710581469818,
+            "modularidad_citas": 0.46934750054103824,
+            "coherencia_tematica": null,
+            "coherencia_base": null,
+            "nmi_temas": null,
+            "componentes_espectrales": [
+              {
+                "articulos": 964,
+                "k": 13,
+                "modularidad": 0.6869
+              }
+            ]
+          }
+        },
+        "concordancia": [
+          {
+            "a": "louvain_dirigido",
+            "b": "leiden",
+            "comunes": 962,
+            "ari": 0.883256596520866,
+            "nmi": 0.8905091006341243
+          },
+          {
+            "a": "louvain_dirigido",
+            "b": "infomap",
+            "comunes": 960,
+            "ari": 0.3749733537597771,
+            "nmi": 0.635855417953342
+          },
+          {
+            "a": "louvain_dirigido",
+            "b": "acoplamiento",
+            "comunes": 251,
+            "ari": 0.14029379204923767,
+            "nmi": 0.2963342739966246
+          },
+          {
+            "a": "louvain_dirigido",
+            "b": "cocitacion",
+            "comunes": 962,
+            "ari": 0.5484548945678429,
+            "nmi": 0.6778377687049816
+          },
+          {
+            "a": "louvain_dirigido",
+            "b": "espectral",
+            "comunes": 962,
+            "ari": 0.5213436046211226,
+            "nmi": 0.6620970033700448
+          },
+          {
+            "a": "leiden",
+            "b": "infomap",
+            "comunes": 960,
+            "ari": 0.3766908686999178,
+            "nmi": 0.6426164401716392
+          },
+          {
+            "a": "leiden",
+            "b": "acoplamiento",
+            "comunes": 251,
+            "ari": 0.14591256961525714,
+            "nmi": 0.30086909516858956
+          },
+          {
+            "a": "leiden",
+            "b": "cocitacion",
+            "comunes": 962,
+            "ari": 0.5397040080606522,
+            "nmi": 0.6615077422711555
+          },
+          {
+            "a": "leiden",
+            "b": "espectral",
+            "comunes": 962,
+            "ari": 0.5322773553608449,
+            "nmi": 0.6653437803179784
+          },
+          {
+            "a": "infomap",
+            "b": "acoplamiento",
+            "comunes": 251,
+            "ari": 0.091214900380005,
+            "nmi": 0.3631996110362018
+          },
+          {
+            "a": "infomap",
+            "b": "cocitacion",
+            "comunes": 960,
+            "ari": 0.4019110452601522,
+            "nmi": 0.6727420958730509
+          },
+          {
+            "a": "infomap",
+            "b": "espectral",
+            "comunes": 960,
+            "ari": 0.49735319757572793,
+            "nmi": 0.675835140368118
+          },
+          {
+            "a": "acoplamiento",
+            "b": "cocitacion",
+            "comunes": 251,
+            "ari": 0.14289515470700284,
+            "nmi": 0.32076218000314877
+          },
+          {
+            "a": "acoplamiento",
+            "b": "espectral",
+            "comunes": 253,
+            "ari": 0.15645057547531369,
+            "nmi": 0.33685031195260334
+          },
+          {
+            "a": "cocitacion",
+            "b": "espectral",
+            "comunes": 962,
+            "ari": 0.5360914183200943,
+            "nmi": 0.6698594359054059
+          }
+        ]
+      }
+    },
+    "mixta": {
+      "nodos": 3914,
+      "libros": 1000,
+      "articulos": 2914,
+      "enlaces": 11653,
+      "metrica_ranking": "dirigido",
+      "medidas": {
+        "dirigido": {
+          "radio_espectral": 1.7590110643533237,
+          "nota": "Centralidad entrante. Sólo pueden puntuar el bloque dominante final y los artículos que alcanza.",
+          "articulos_positivos": 454
+        },
+        "simetrico": {
+          "radio_espectral": 23.938421329394544,
+          "nota": "Vector propio global de la red sin orientación. Las componentes de menor radio reciben cero.",
+          "articulos_positivos": 2970
+        }
+      },
+      "citas_sin_doi": 52194,
+      "citas_sin_doi_enlazadas": 223,
+      "autores": {
+        "autores": 3344,
+        "con_id_openalex": 2362,
+        "solo_nombre": 982,
+        "autorias_unidas_por_nombre": 294,
+        "citas_entre_autores": 19253,
+        "autocitas_excluidas": 777,
+        "metrica_ranking": "pagerank",
+        "pagerank_alfa": 0.85,
+        "nota": "Orden: PageRank, citas internas, citas globales y nombre."
+      },
+      "clusters": {
+        "resolucion": 1.0,
+        "min_cluster": 3,
+        "vecinos_similitud": 15,
+        "metodos": {
+          "louvain_dirigido": {
+            "nombre": "Louvain dirigido",
+            "disponible": true,
+            "nota": "",
+            "clusters": 23,
+            "articulos_asignados": 3001,
+            "cobertura": 0.7667347981604496,
+            "modularidad_propia": 0.6274498672455248,
+            "modularidad_citas": 0.6274498672455248,
+            "coherencia_tematica": 0.6219572776949827,
+            "coherencia_base": 0.2945851962245405,
+            "nmi_temas": 0.4199461800227789
+          },
+          "leiden": {
+            "nombre": "Leiden dirigido",
+            "disponible": true,
+            "nota": "",
+            "clusters": 29,
+            "articulos_asignados": 3001,
+            "cobertura": 0.7667347981604496,
+            "modularidad_propia": 0.6380770371339388,
+            "modularidad_citas": 0.6380770371339388,
+            "coherencia_tematica": 0.639344262295082,
+            "coherencia_base": 0.2945851962245405,
+            "nmi_temas": 0.4570725423618027
+          },
+          "infomap": {
+            "nombre": "Infomap",
+            "disponible": true,
+            "nota": "",
+            "clusters": 232,
+            "articulos_asignados": 2902,
+            "cobertura": 0.7414409810935104,
+            "modularidad_propia": 0.444588636762457,
+            "modularidad_citas": 0.444588636762457,
+            "coherencia_tematica": 0.7172909184197024,
+            "coherencia_base": 0.2965623396613648,
+            "nmi_temas": 0.42942034372191024
+          },
+          "acoplamiento": {
+            "nombre": "Acoplamiento bibliográfico",
+            "disponible": true,
+            "nota": "",
+            "clusters": 13,
+            "articulos_asignados": 2428,
+            "cobertura": 0.6203372508942259,
+            "modularidad_propia": 0.6667058437383184,
+            "modularidad_citas": 0.27530460852196825,
+            "coherencia_tematica": 0.6068139963167587,
+            "coherencia_base": 0.2794659300184162,
+            "nmi_temas": 0.42140297644421515
+          },
+          "cocitacion": {
+            "nombre": "Cocitación",
+            "disponible": true,
+            "nota": "",
+            "clusters": 20,
+            "articulos_asignados": 2130,
+            "cobertura": 0.544200306591722,
+            "modularidad_propia": 0.7091789900783461,
+            "modularidad_citas": 0.3109607400808391,
+            "coherencia_tematica": 0.6179775280898876,
+            "coherencia_base": 0.31892826274848746,
+            "nmi_temas": 0.3890631190680079
+          },
+          "espectral": {
+            "nombre": "Espectral bibliométrico",
+            "disponible": true,
+            "nota": "2 componentes con al menos 3 artículos; la de 3295 artículos se dividió en 13, la de 6 artículos se dividió en 2.",
+            "clusters": 14,
+            "articulos_asignados": 3299,
+            "cobertura": 0.8428717424629535,
+            "modularidad_propia": 0.6448224782372641,
+            "modularidad_citas": 0.537460455539897,
+            "coherencia_tematica": 0.597497842968076,
+            "coherencia_base": 0.27911993097497845,
+            "nmi_temas": 0.4477023044275853,
+            "componentes_espectrales": [
+              {
+                "articulos": 3295,
+                "k": 13,
+                "modularidad": 0.6455
+              },
+              {
+                "articulos": 6,
+                "k": 2,
+                "modularidad": 0.0794
+              }
+            ]
+          }
+        },
+        "concordancia": [
+          {
+            "a": "louvain_dirigido",
+            "b": "leiden",
+            "comunes": 3001,
+            "ari": 0.6366595587865725,
+            "nmi": 0.680484238415832
+          },
+          {
+            "a": "louvain_dirigido",
+            "b": "infomap",
+            "comunes": 2902,
+            "ari": 0.13006748525980297,
+            "nmi": 0.5200530353819061
+          },
+          {
+            "a": "louvain_dirigido",
+            "b": "acoplamiento",
+            "comunes": 2116,
+            "ari": 0.42114210407279273,
+            "nmi": 0.5147393746453587
+          },
+          {
+            "a": "louvain_dirigido",
+            "b": "cocitacion",
+            "comunes": 2130,
+            "ari": 0.3813613498461875,
+            "nmi": 0.4945283496924179
+          },
+          {
+            "a": "louvain_dirigido",
+            "b": "espectral",
+            "comunes": 2989,
+            "ari": 0.5157056428385515,
+            "nmi": 0.5442716551414053
+          },
+          {
+            "a": "leiden",
+            "b": "infomap",
+            "comunes": 2902,
+            "ari": 0.131604199926314,
+            "nmi": 0.5376437452879307
+          },
+          {
+            "a": "leiden",
+            "b": "acoplamiento",
+            "comunes": 2116,
+            "ari": 0.4935616926025616,
+            "nmi": 0.5487561163660944
+          },
+          {
+            "a": "leiden",
+            "b": "cocitacion",
+            "comunes": 2130,
+            "ari": 0.4173375253723948,
+            "nmi": 0.5389831769322644
+          },
+          {
+            "a": "leiden",
+            "b": "espectral",
+            "comunes": 2989,
+            "ari": 0.6109265898430322,
+            "nmi": 0.5953573901197917
+          },
+          {
+            "a": "infomap",
+            "b": "acoplamiento",
+            "comunes": 2059,
+            "ari": 0.10393119227904017,
+            "nmi": 0.44167554084916244
+          },
+          {
+            "a": "infomap",
+            "b": "cocitacion",
+            "comunes": 2072,
+            "ari": 0.17328924279680522,
+            "nmi": 0.5265180336022208
+          },
+          {
+            "a": "infomap",
+            "b": "espectral",
+            "comunes": 2891,
+            "ari": 0.11461701452355712,
+            "nmi": 0.4638862106864118
+          },
+          {
+            "a": "acoplamiento",
+            "b": "cocitacion",
+            "comunes": 1258,
+            "ari": 0.3196120064672407,
+            "nmi": 0.4460295949346904
+          },
+          {
+            "a": "acoplamiento",
+            "b": "espectral",
+            "comunes": 2426,
+            "ari": 0.48504388967130174,
+            "nmi": 0.5559928252674071
+          },
+          {
+            "a": "cocitacion",
+            "b": "espectral",
+            "comunes": 2130,
+            "ari": 0.4342705556261589,
+            "nmi": 0.5654169086174985
+          }
+        ]
+      }
+    }
+  }
+}
