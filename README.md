@@ -1,4 +1,4 @@
-# Analisis bibliometrico
+# Análisis bibliométrico
 
 `bibliometria.py` busca artículos de filosofía en varias bases bibliográficas, une los registros que describen el mismo artículo y construye la red de citas entre ellos. Después calcula la centralidad de vector propio de cada artículo, identifica a los autores más relevantes, busca grupos de artículos, o subtemas, con seis métodos de clustering para grafos dirigidos, y ordena los libros de Oxford University Press y Cambridge University Press que cita el corpus. La centralidad, los autores y los clusters se calculan en tres versiones: sólo artículos, sólo libros, y libros y artículos juntos. Las vistas interactivas están en un solo archivo, `grafo.html`, organizadas en pestañas.
 
