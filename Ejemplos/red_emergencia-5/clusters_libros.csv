@@ -1,0 +1,955 @@
+﻿id,titulo,anio,puesto,cluster_louvain_dirigido,cluster_leiden,cluster_infomap,cluster_acoplamiento,cluster_cocitacion,cluster_espectral
+10.1093/acprof:oso/9780190620325.001.0001,Emergence: A Philosophical Account,2016,1,1,1,1,,1,1
+10.1093/oso/9780198823742.001.0001,Metaphysical Emergence,2021,2,1,1,1,,1,1
+10.1093/acprof:oso/9780199276196.001.0001,Every Thing Must Go,2007,3,1,1,1,,1,1
+10.1017/cbo9781139871716,Reduction and Emergence in Science and Philosophy,2016,4,1,1,1,,1,1
+10.1093/acprof:oso/9780199544318.001.0001,The Re-Emergence of Emergence,2008,5,1,1,1,,1,1
+10.1093/acprof:oso/9780199583621.001.0001,Emergence in Mind,2010,6,1,1,1,,1,1
+10.1093/acprof:oso/9780199214396.001.0001,Physical Realization,2007,7,1,1,1,,1,1
+10.1093/oso/9780195079517.001.0001,The Origins of Order: Self-Organization and Selection in Evolution,1993,8,7,9,2,,5,2
+10.1093/oso/9780198504092.001.0001,Emergence From Chaos to Order,1998,9,7,9,2,,5,2
+10.1093/0195146476.001.0001,"The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence",2001,10,1,1,1,2,1,1
+10.1093/oso/9780195121049.001.0001,Investigations,2000,11,7,9,2,,5,2
+10.1017/cbo9780511625220,Supervenience and Mind: Selected Philosophical Essays,1993,12,6,5,16,,1,1
+10.1093/oso/9780199204717.001.0001,"Evolution and Emergence: Systems, Organisms, Persons",2007,13,7,1,2,,1,1
+10.1093/acprof:oso/9780199585878.001.0001,Essays in the Metaphysics of Mind,2010,14,1,1,1,,1,1
+10.1017/cbo9780511570797,Physicalism and its Discontents,2001,15,1,1,1,,1,1
+10.1093/0199245363.001.0001,Objects and Persons,2001,16,1,3,1,5,1,1
+10.1093/acprof:oso/9780199674527.001.0001,Metaphysics and Science,2013,17,1,1,1,2,1,1
+10.1093/oso/9780195124415.001.0001,Complexity A Guided Tour,2009,18,7,1,2,,1,1
+10.1017/cbo9781316402719,"Organisms, Agency, and Evolution",2015,19,4,4,11,,12,2
+10.1017/cbo9780511625251,"Mind, Language and Reality: Philosophical Papers",1975,20,3,2,7,,14,3
+10.1093/acprof:oso/9780199546961.001.0001,The Emergent Multiverse: Quantum Theory according to the Everett Interpretation,2012,21,1,1,1,,1,1
+10.1093/acprof:oso/9780199684847.001.0001,The Structure of the World: Metaphysics and Representation,2014,22,1,1,1,,1,1
+10.1093/0199259747.001.0001,From an Ontological Point of View,2003,23,13,3,6,5,8,1
+10.1017/cbo9780511761720,"The Causal Power of Social Structures: Emergence, Structure and Agency",2010,24,1,1,1,,1,1
+10.1017/cbo9781139171700,What is a Law of Nature?,1983,25,1,1,1,,1,1
+10.1093/acprof:oso/9780199211531.001.0001,Being Reduced,2008,26,1,1,1,,1,1
+10.1093/oxfordhb/9780195392043.001.0001,The Oxford Handbook of Philosophy of Physics,2013,27,3,2,7,,1,3
+10.1093/oso/9780198519737.001.0001,"The Emperor's New Mind: Concerning Computers, Minds, and The Laws of Physics",1989,28,7,1,2,,1,1
+10.1017/cbo9780511487354,A Metaphysics for Scientific Realism: Knowing the Unobservable,2007,29,1,1,1,,1,1
+10.1093/0198244274.001.0001,The Scientific Image,1980,30,1,1,1,,1,1
+10.1093/oso/9780198239291.001.0001,Mental Causation,1993,31,1,1,1,,1,1
+10.1093/oso/9780195135138.001.0001,The Emergence of Everything: How the World Became Complex,2002,32,7,9,2,,5,2
+10.1017/cbo9781107706910,Covariant Loop Quantum Gravity: An Elementary Introduction to Quantum Gravity and Spinfoam Theory,2014,33,3,2,3,,9,3
+10.1093/acprof:oso/9780199790807.001.0001,The Wave Function: Essays on the Metaphysics of Quantum Mechanics,2013,34,1,1,1,,1,1
+10.1093/acprof:oso/9780199363209.001.0001,Metaphysics and the Philosophy of Science: New Essays,2017,35,1,1,1,,1,1
+10.1093/0199278245.001.0001,"Identity in Physics: A Historical, Philosophical, and Formal Analysis",2006,36,1,1,1,2,1,1
+10.1017/cbo9780511583308,A World of States of Affairs,1997,37,1,3,1,,8,1
+10.1093/oso/9780198758600.001.0001,Brute Facts,2018,38,1,1,1,,1,1
+10.1093/oso/9780192864888.001.0001,Out of Time: A Philosophical Study of Timelessness,2022,39,3,2,3,3,9,3
+10.1017/cbo9781139167093,The Dappled World: A Study of the Boundaries of Science,1999,40,1,7,10,,3,1
+10.1093/acprof:oso/9780199919758.001.0001,Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False,2012,41,4,1,11,,12,2
+10.1017/cbo9780511755804,Quantum Gravity,2004,42,3,2,3,,9,3
+10.1017/cbo9780511557675,Realist Social Theory: The Morphogenetic Approach,1995,43,6,5,4,,4,5
+10.1093/acprof:oso/9780199217144.001.0001,Personal Agency: The Metaphysics of Mind and Action,2008,44,1,3,1,5,1,1
+10.1017/cbo9780511499968,"Grounding Cognition: The Role of Perception and Action in Memory, Language, and Thinking",2005,45,7,1,2,4,1,10
+10.1093/oso/9780192849786.001.0001,Emergence in Context: A Treatise in Twenty-First Century Natural Philosophy,2022,46,1,1,1,3,1,1
+10.1017/cbo9780511980435,The Cambridge Handbook of Biolinguistics,2013,47,7,1,2,,1,1
+10.1017/cbo9780511486449,Selfish Sounds and Linguistic Evolution: A Darwinian Approach to Language Change,2004,48,7,1,2,4,1,1
+10.1093/oso/9780199272525.001.0001,Mind and Emergence: From Quantum to Consciousness,2004,49,7,9,2,,5,2
+10.1093/019515651x.001.0001,Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning,2003,50,1,1,1,2,1,1
+10.1093/acprof:oso/9780199560561.001.0001,"Many Worlds?: Everett, Quantum Theory, and Reality",2010,51,1,1,1,2,1,1
+10.1017/cbo9780511498817,A Physicalist Manifesto: Thoroughly Modern Materialism,2003,52,1,1,1,5,1,1
+10.1093/acprof:oso/9780198735878.001.0001,The Metaphysics of Relations,2016,53,1,1,1,,1,1
+10.1093/acprof:oso/9780199269693.001.0001,The Structural Foundations of Quantum Gravity,2006,54,1,1,1,,1,1
+10.1017/9781009083423,"Reduction, Emergence and the Metaphysics in Science",2025,55,1,1,1,2,1,1
+10.1017/cbo9780511815676,Speakable and Unspeakable in Quantum Mechanics: Collected Papers on Quantum Philosophy,2004,56,1,1,1,,1,1
+10.1093/0198239807.001.0001,Quantum Mechanics,1991,57,1,1,1,,1,1
+10.1093/oso/9780198807087.001.0001,Beyond the Dynamical Universe,2018,58,1,1,1,,1,1
+10.1017/cbo9780511781759,From Current Algebra to Quantum Chromodynamics: A Case for Structural Realism,2010,58,1,1,1,,1,1
+10.1093/oso/9780199641314.001.0001,Thin Objects,2018,58,1,1,1,,1,1
+10.1093/oso/9780198855101.001.0001,Putting Properties First: A Platonic Metaphysics for Natural Modality,2022,61,1,1,1,3,1,3
+10.1093/oso/9780198779711.001.0001,The New Mechanical Philosophy,2017,62,1,1,1,,1,1
+10.1093/acprof:oso/9780199682904.001.0001,"Oxford Studies in Metaphysics, Volume 8",2013,63,1,1,1,,1,1
+10.1093/oso/9780198513940.001.0001,The Theory of Critical Phenomena: An Introduction to the Renormalization Group,1992,64,3,2,7,,14,3
+10.1017/cbo9780511814563,Representing and Intervening: Introductory Topics in the Philosophy of Natural Science,1983,65,5,8,21,,6,4
+10.1093/oso/9780198831501.001.0001,"The Foundation of Reality: Fundamentality, Space, and Time",2020,66,3,2,7,,14,3
+10.1017/cbo9780511546426,Nature's Magic: Synergy in Evolution and the Fate of Humankind,2003,67,7,9,2,,5,2
+10.1017/9781108901017,Emergence and Reduction in Physics,2022,68,1,1,1,2,1,1
+10.1093/acprof:oso/9780199695614.001.0001,Getting Causes from Powers,2011,69,13,3,6,,8,1
+10.1093/oxfordhb/9780195182057.001.0001,The Oxford Handbook of Philosophy of Biology,2008,70,1,1,1,3,1,1
+10.1017/9781108562218,Quantum Worlds: Perspectives on the Ontology of Quantum Mechanics,2019,71,1,1,1,2,1,1
+10.1093/oso/9780199682683.001.0001,Making Things Up,2017,72,3,2,3,,9,3
+10.1093/acprof:oso/9780198744382.001.0001,"Plural Logic: Second Edition, Revised and Enlarged",2016,73,1,1,1,,1,1
+10.1093/acprof:oso/9780199278145.001.0001,Plural Predication,2006,73,1,1,1,5,1,1
+10.1093/acprof:oso/9780199565818.001.0001,"Modality: Metaphysics, Logic, and Epistemology",2010,75,3,2,3,5,9,3
+10.1017/cbo9780511998553,Natural Categories and Human Kinds: Classification in the Natural and Social Sciences,2013,76,1,1,1,,1,1
+10.1093/oso/9780198803478.001.0001,Physics Avoidance,2017,76,1,1,1,,1,1
+10.1093/0198247044.001.0001,How the Laws of Physics Lie,1983,78,5,7,10,,6,4
+10.1093/oso/9780198749004.001.0001,Mereology,2021,79,3,2,3,,9,3
+10.1093/oso/9780198831532.001.0001,Absence and Nothing: The Philosophy of What There is Not,2021,80,1,1,1,3,1,1
+10.1093/acprof:oso/9780199608485.001.0001,Cognitive Biology: Dealing with Information from Bacteria to Minds,2011,81,7,9,2,4,5,2
+10.1093/acprof:oso/9780199596201.001.0001,The Universe As We Find It,2012,82,13,3,6,,8,1
+10.1093/acprof:oso/9780199267972.001.0001,Evolution and the Levels of Selection,2006,83,4,4,11,,12,2
+10.1093/oso/9780198504931.001.0001,The Origins of Life: From the birth of life to the origin of language,1999,84,7,9,2,,5,2
+10.1093/oxfordhb/9780199262618.001.0001,The Oxford Handbook of Philosophy of Mind,2009,85,13,3,6,5,8,1
+10.1093/oso/9780199218394.001.0001,Oxford Studies In Metaphysics,2007,86,3,2,3,,9,3
+10.1017/cbo9780511734892,Social Emergence: Societies As Complex Systems,2005,87,6,5,4,2,4,5
+10.1093/oso/9780199278183.001.0001,"Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited",2007,88,3,2,3,,9,3
+10.1093/acprof:oso/9780199669615.001.0001,Composition as Identity,2014,89,3,2,3,,9,3
+10.1017/cbo9780511617188,What Makes Biology Unique?: Considerations on the Autonomy of a Scientific Discipline,2004,90,4,4,15,2,7,2
+10.1093/oso/9780190097714.001.0001,The World in the Wave Function: A Metaphysics for Quantum Physics,2021,91,3,2,3,3,9,3
+10.1093/oso/9780198865452.001.0001,Appearance in Reality,2021,92,1,1,1,3,1,1
+10.1017/cbo9781139149136,Metaphysical Grounding: Understanding the Structure of Reality,2012,93,3,2,3,,9,3
+10.1017/cbo9780511618758,Hunting Causes and Using Them: Approaches in Philosophy and Economics,2007,94,1,1,47,,1,1
+10.1093/019924443x.001.0001,Four-Dimensionalism: An Ontology of Persistence and Time,2001,95,1,3,1,5,8,1
+10.1093/acprof:oso/9780199299317.001.0001,Explaining the Brain,2007,96,6,5,4,,4,5
+10.1017/cbo9780511817540,The Emergence of Life: From Chemical Origins to Synthetic Biology,2006,97,7,9,2,,5,2
+10.1093/oso/9780198844143.001.0001,Philosophy Beyond Spacetime: Implications from Quantum Gravity,2021,98,3,2,3,,9,3
+10.1093/acprof:oso/9780199227013.001.0001,Nature's Metaphysics,2007,99,13,3,6,,8,1
+10.1093/acprof:osobl/9780199552047.001.0001,Darwinian Populations and Natural Selection,2009,100,4,4,11,,12,2
+10.1093/oso/9780199295739.001.0001,The Music of Life: Biology beyond the Genome,2006,101,1,1,1,,1,1
+10.1017/cbo9780511791390,"Lie Groups, Physics, and Geometry: An Introduction for Physicists, Engineers and Chemists",2008,102,1,1,1,,1,1
+10.1017/cbo9781139173124,Persons and Bodies: A Constitution View,2000,103,1,1,1,,1,1
+10.1093/acprof:oso/9780199267422.001.0001,Real Materialism,2008,104,13,3,6,,8,1
+10.1017/cbo9781139171106,Philosophical Concepts in Physics: The Historical Relation between Philosophy and Scientific Theories,1998,105,1,1,1,,1,1
+10.1093/acprof:oso/9780198732891.001.0001,The Multiple Realization Book,2016,106,1,1,1,,1,1
+10.1017/cbo9780511751813,Reexamining the Quantum-Classical Relation: Beyond Reductionism and Pluralism,2008,107,1,1,1,,1,1
+10.1093/acprof:oso/9780199603039.001.0001,Oxford Studies in Metaphysics,2011,108,3,2,3,,9,3
+10.1017/cbo9780511755682,Modern Canonical Quantum General Relativity,2007,109,3,2,3,,9,3
+10.1017/cbo9780511841620,A First Course in String Theory,2009,110,3,2,3,,9,3
+10.1017/cbo9781139342513,String Theory and the Scientific Method,2013,110,3,2,3,,9,3
+10.1093/acprof:oso/9780199764037.001.0001,Consciousness and the Prospects of Physicalism,2011,112,1,1,1,,1,1
+10.1093/acprof:oso/9780198507260.001.0001,The Principles of Life,2003,113,7,9,2,,5,2
+10.1017/9781009581608,The Arrow of Time: From Local Systems to the Whole Universe,2025,114,1,1,1,2,1,3
+10.1017/cbo9780511803161,"Causality: Models, Reasoning, and Inference",2009,115,1,1,47,,1,1
+10.1093/acprof:oso/9780199696499.001.0001,Scientific Metaphysics,2013,116,1,1,1,,1,1
+10.1093/oso/9780195122343.001.0001,Developmental Plasticity and Evolution,2003,117,4,4,5,,7,2
+10.1093/oso/9780199546046.001.0001,Metametaphysics: New Essays on the Foundations of Ontology,2009,118,3,2,3,,9,3
+10.1093/oso/9780190651459.001.0001,Scientific Ontology,2017,119,1,1,1,,1,1
+10.1017/cbo9781316226780,The Relational Subject,2015,120,1,5,16,,1,1
+10.1093/acprof:oso/9780198729242.001.0001,"Oxford Studies in Metaphysics, Volume 9",2015,121,3,2,3,,9,3
+10.1017/9781316779651,"The Cambridge History of Philosophy, 1945–2015",2019,122,2,3,20,1,2,8
+10.1093/oso/9780198250890.001.0001,Conceivability and Possibility,2002,123,13,3,6,,8,1
+10.1017/cbo9780511770777,"Time, Chance, and Reduction: Philosophical Aspects of Statistical Mechanics",2010,124,1,7,10,2,9,3
+10.1093/oso/9780198714057.001.0001,The Quantum Revolution in Philosophy,2017,125,3,2,3,,9,3
+10.1093/acprof:oso/9780199652365.001.0001,"The SelfNaturalism, Consciousness, and the First-Person Stance",2012,126,3,2,66,,8,1
+10.1017/cbo9780511921315,Analytical Sociology and Social Mechanisms,2011,127,6,5,48,2,4,5
+10.1093/0198236360.001.0001,Concepts: Where Cognitive Science Went Wrong,1998,128,8,5,16,4,3,4
+10.1017/cbo9781139033107,An Introduction to the Philosophy of Mathematics,2012,129,3,2,3,,9,3
+10.1093/acprof:oso/9780198715702.001.0001,"Being, Freedom, and Method: Themes from the Philosophy of Peter van Inwagen",2017,129,3,2,3,,9,3
+10.1093/acprof:oso/9780199556182.001.0001,The Waning of Materialism,2010,131,1,3,1,5,1,1
+10.1017/9781108937092,Cosmology,2022,132,1,1,1,,1,1
+10.1093/oso/9780198794325.001.0001,Enactivist Interventions,2017,133,2,10,8,,2,6
+10.1017/cbo9780511804823,Debating Design: From Darwin to DNA,2004,134,7,9,2,2,5,2
+10.1017/9781108231657,Peirce on Realism and Idealism,2017,135,1,1,1,,1,1
+10.1017/cbo9780511814990,"Science and Ultimate Reality: Quantum Theory, Cosmology, and Complexity",2004,136,7,9,2,,5,2
+10.1093/oso/9780198558439.001.0001,The Natural Selection of the Chemical Elements: The Environment and Life’s Chemistry,1996,137,7,9,2,,5,2
+10.1017/cbo9780511488801,Dissecting the Social: On the Principles of Analytical Sociology,2005,138,6,5,4,2,4,5
+10.1017/cbo9780511625398,"Reason, Truth and History",1981,139,2,7,54,,6,1
+10.1017/9781009118910,Dispositions and Powers,2023,140,13,3,6,2,8,1
+10.1017/cbo9780511624933,Physics and Chance: Philosophical Issues in the Foundations of Statistical Mechanics,1993,141,1,7,10,,1,1
+10.1017/cbo9780511535369,Symmetries in Physics: Philosophical Reflections,2003,142,1,1,1,,1,1
+10.1093/acprof:oso/9780199359943.001.0001,Panpsychism: Contemporary Perspectives,2016,143,13,3,6,,8,1
+10.1093/oso/9780199334872.001.0001,Philosophical Papers,2019,144,1,1,1,3,1,1
+10.1093/oso/9780198846338.001.0001,The Philosophy and Physics of Duality,2025,145,3,2,7,3,14,3
+10.1017/cbo9781139173452,Intentionality: An Essay in the Philosophy of Mind,1983,146,8,5,16,,3,4
+10.1093/0199248060.001.0001,Human Nature and the Limits of Science,2001,147,6,7,10,2,3,1
+10.1093/acprof:oso/9780199682737.001.0001,The Predictive Mind,2013,148,4,4,15,,7,2
+10.1093/0195158709.001.0001,"Extending Ourselves: Computational Science, Empiricism, and Scientific Method",2004,149,11,7,56,2,3,4
+10.1093/oso/9780198812890.001.0001,Fundamental Things: Theory and Applications of Grounding,2023,150,3,2,3,3,9,3
+10.1017/cbo9780511570643,The Design Inference: Eliminating Chance through Small Probabilities,1998,151,7,9,2,,5,2
+10.1093/oso/9780195117547.001.0001,Biogenesis: Theories Of Life’s Origin,1999,152,7,9,2,,5,2
+10.1093/oso/9780198505464.001.0001,Bringing Chemistry to Life: From Matter to Man,1999,153,7,9,2,,5,2
+10.1017/cbo9780511546433,"Information Theory, Evolution, and the Origin of Life",2005,154,7,9,2,,5,2
+10.1017/cbo9780511535499,Life's Solution: Inevitable Humans in a Lonely Universe,2003,154,7,9,2,,5,2
+10.1017/cbo9780511809187,Introduction to the Modern Theory of Dynamical Systems,1995,156,1,1,1,,1,1
+10.1017/cbo9780511730191,The Nature of Life: Classical and Contemporary Perspectives from Philosophy and Science,2010,157,7,9,10,2,5,2
+10.1093/oso/9780195142662.001.0001,Wanderind in the Gardens of the Mind: Peter Mitchell and the Making of Glynn,2003,158,7,9,2,,5,2
+10.1093/0199271941.001.0001,How the Body Shapes the Mind,2005,159,9,10,32,4,2,6
+10.1093/acprof:oso/9780199218219.001.0001,The Metaphysics Within Physics,2007,160,1,3,1,,8,1
+10.1017/cbo9780511816826,The Cambridge Handbook of Situated Cognition,2001,161,5,8,23,4,6,4
+10.1093/0195108647.001.0001,Causality and Explanation,1998,162,7,9,2,2,5,2
+10.1093/acprof:oso/9780199381104.001.0001,The Ant Trap: Rebuilding the Foundations of the Social Sciences,2015,163,15,15,17,,17,14
+10.1093/acprof:oso/9780195333213.001.0001,"Supersizing the Mind: Embodiment, Action, and Cognitive Extension",2008,164,5,8,18,4,13,9
+10.1093/acprof:oso/9780198755722.001.0001,Reality Making,2016,165,3,2,3,,9,3
+10.1093/acprof:oso/9780199591565.001.0001,Group Agency,2011,166,9,6,14,,15,8
+10.1017/cbo9781139031066,Advanced Solid State Physics,2012,167,3,2,74,6,1,3
+10.1017/cbo9780511622892,Principles of Modern Technology,1990,167,3,2,74,,1,3
+10.1093/acprof:oso/9780199914722.001.0001,Naturalism and the First-Person Perspective,2013,169,1,10,32,,2,6
+10.1017/ccol0521809894,The Cambridge Companion to Merleau-Ponty,2004,169,1,10,32,,2,6
+10.1017/cbo9780511663857,Supervenience: New Essays,1995,171,11,9,56,,5,2
+10.1017/cbo9780511802683,Biological Complexity and Integrative Pluralism,2003,172,7,7,10,2,5,4
+10.1093/oso/9780197568613.001.0001,A Middle Way: A Non-Fundamental Approach to Many-Body Physics,2021,173,3,2,7,,14,3
+10.1093/acprof:oso/9780199269259.001.0001,Wandering Significance: An Essay on Conceptual Behaviour,2006,174,1,7,39,,1,1
+10.1093/oso/9780195150704.001.0001,From Complexity to Life: On the Emergence of Life and Meaning,2002,175,7,9,2,,5,2
+10.1093/0199246270.001.0001,Essays on Actions and Events,2001,176,1,1,1,5,1,8
+10.1017/cbo9780511575549,"Approaches to Quantum Gravity: Toward a New Understanding of Space, Time and Matter",2009,177,3,2,7,,14,3
+10.1093/acprof:oso/9780199231157.001.0001,Principles of Social Evolution,2011,178,4,4,11,,12,2
+10.1093/oxfordhb/9780195189254.001.0001,The Oxford Handbook of Philosophy of Economics,2009,179,4,4,11,3,12,2
+10.1017/cbo9781139015509,Field Theories of Condensed Matter Physics,2013,180,1,1,1,,1,3
+10.1093/oso/9780195139327.001.0001,The Mind as a Scientific Object: Between Brain And Culture,2005,181,11,9,56,,5,2
+10.1093/acprof:oso/9780199699322.001.0001,Quantum Field Theory for the Gifted Amateur,2014,182,1,1,1,,1,1
+10.1093/oso/9780198805076.001.0001,Oxford Studies in Metaethics 12,2017,183,3,2,3,,9,3
+10.1093/0195172159.001.0001,"Inconsistency, Asymmetry, and Non-Locality: A Philosophical Investigation of Classical Electrodynamics",2005,184,7,7,10,2,3,1
+10.1093/acprof:oso/9780195317114.001.0001,Beyond Reduction: Philosophy of Mind and Post-Reductionist Philosophy of Science,2007,185,11,7,10,2,3,1
+10.1017/cbo9780511614736,Singularities: Landmarks on the Pathways of Life,2005,186,7,9,2,2,5,2
+10.1017/cbo9780511920998,Foundations of Space and Time: Reflections on Quantum Gravity,2012,187,3,2,7,2,14,3
+10.1093/0195106458.001.0001,"The Common Mind: An Essay on Psychology, Society, and Politics",1996,188,6,5,4,5,4,5
+10.1093/0195148770.001.0001,The Oxford Handbook of Philosophy of Mathematics and Logic,2005,189,1,1,1,,1,1
+10.1093/oso/9780198866282.001.0001,Neurocognitive Mechanisms: Explaining Biological Cognition,2020,190,2,10,8,3,2,6
+10.1093/oso/9780198502944.001.0001,The Major Transitions in Evolution,1997,191,7,9,2,,5,2
+10.1093/019926760x.001.0001,Consciousness and its Objects,2004,192,8,5,16,,3,4
+10.1017/cbo9780511624629,Kant and the Mind,1994,193,8,5,16,,3,4
+10.1093/oso/9780195059670.001.0001,Kant‘s Transcendental Psychology,1990,193,8,5,16,,3,4
+10.1093/0195132351.001.0001,Purple Haze: The Puzzle of Consciousness,2001,195,1,3,,5,1,1
+10.1017/cbo9780511812255,Nuts and Bolts for the Social Sciences,1989,196,6,5,4,,4,5
+10.1017/cbo9780511487552,Truth and Truthmakers,2004,197,3,3,3,2,9,3
+10.1093/acprof:oso/9780199698363.001.0001,Hegel's Critique of Kant,2012,198,8,5,16,,3,4
+10.1093/acprof:oso/9780199328741.001.0001,"Language, Cognition, and Human Nature",2013,198,8,5,16,,3,4
+10.1093/0198247702.001.0001,The False Prison Volume One,1987,198,8,5,16,,3,4
+10.1017/cbo9781139046213,Critical Dynamics: A Field Theory Approach to Equilibrium and Non-Equilibrium Scaling Behavior,2014,201,3,2,7,6,14,3
+10.1017/cbo9781107050990,Universe or Multiverse?,2007,202,1,7,10,2,3,1
+10.1017/cbo9780511618932,Making our Way through the World: Human Reflexivity and Social Mobility,2007,203,6,5,4,,4,5
+10.1093/acprof:oso/9780199587070.001.0001,"Organism and Environment: Ecological Development, Niche Construction, and Adaptation",2015,204,4,4,5,,7,2
+10.1017/cbo9780511498541,"Embryology, Epigenesis and Evolution: Taking Development Seriously",2004,205,4,4,5,2,7,2
+10.1017/cbo9781316036440,Scaling and Renormalization in Statistical Physics,1996,206,3,2,7,6,14,3
+10.1017/cbo9780511815881,Statistical Physics of Fields,2007,207,3,2,7,,14,3
+10.1093/oso/9780195118285.001.0001,"The Touchstone of Life: Molecular Information, Cell Communication, and the Foundattions of Life",1999,208,7,9,2,,5,2
+10.1093/acprof:oso/9780198786849.001.0001,Sensorimotor Life,2017,209,2,10,8,,2,7
+10.1093/acprof:oso/9780195379457.001.0001,Cognitive Systems and the Extended Mind,2009,210,5,8,21,4,6,4
+10.1017/cbo9780511482519,Aristotle and the Science of Nature: Unity without Uniformity,2005,211,3,2,7,2,14,3
+10.1093/acprof:oso/9780195311105.001.0001,The Character of Consciousness,2010,212,13,3,6,,8,1
+10.1093/oso/9780198865247.001.0001,"Statistical Mechanics: Entropy, Order Parameters, and Complexity",2021,213,3,2,7,3,14,3
+10.1093/oso/9780198545996.001.0001,Infectious Diseases of Humans: Dynamics and Control,1991,214,3,2,7,,14,3
+10.1017/9781316995433,Introduction to Quantum Mechanics,2018,214,3,2,7,,14,3
+10.1093/oso/9780198805090.001.0001,Networks,2018,214,3,2,7,3,14,3
+10.1017/cbo9781139046855,The Cambridge Handbook of Artificial Intelligence,2014,217,7,17,10,4,19,8
+10.1017/cbo9780511570650,Physical Causation,2000,218,6,7,10,,3,1
+10.1017/cbo9780511625343,Papers in Metaphysics and Epistemology,1999,219,1,3,1,,3,1
+10.1017/cbo9780511609084,Adaptationism and Optimality,2001,220,4,4,15,,7,2
+10.1093/oso/9780198779636.001.0001,Everything Flows: Towards a Processual Philosophy of Biology,2018,221,4,4,11,3,12,2
+10.1017/cbo9781139173827,Sensations: A Defense of Type Materialism,1991,222,1,3,,,1,1
+10.1017/9781108885812,"Facts, Conventions, and the Levels of Selection",2021,223,4,4,11,2,12,2
+10.1093/oso/9780190677015.001.0001,Consciousness and Fundamental Reality,2017,224,13,3,6,,8,1
+10.1093/0195171276.001.0001,Inventing Temperature: Measurement and Scientific Progress,2004,225,11,7,44,2,3,1
+10.1017/9781108655705,Beyond Spacetime: The Foundations of Quantum Gravity,2020,226,3,2,7,,14,3
+10.1017/9781316584200,From Matter to Life: Information and Causality,2017,227,4,4,15,,7,2
+10.1017/cbo9780511612756,Sameness and Substance Renewed,2001,228,4,4,11,,12,2
+10.1093/oso/9780199270262.001.0001,Teleosemantics: New Philosophical Essays,2006,229,3,2,3,,9,3
+10.1017/9781009183734,The Computational Theory of Mind,2023,230,2,10,8,4,2,6
+10.1093/acprof:oso/9780199206650.001.0001,Networks,2010,231,1,1,1,,1,1
+10.1017/cbo9780511663901,Social Mechanisms: An Analytical Approach to Social Theory,1998,232,6,5,4,,4,5
+10.1017/cbo9781139164856,The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo,2005,233,4,4,5,2,7,2
+10.1093/0198238207.001.0001,Knowledge in a Social World,1999,234,5,8,12,1,13,9
+10.1017/9781108680691,The Causal Structure of Natural Selection,2021,235,4,4,5,2,7,2
+10.1017/cbo9780511623486,The Neutral Theory of Molecular Evolution,1983,236,4,4,15,,7,2
+10.1017/cbo9780511535338,"Self-Organized Biological Dynamics and Nonlinear Control: Toward Understanding Complexity, Chaos and Emergent Function in Living Systems",2000,237,7,9,2,,5,2
+10.1093/oso/9780198733058.001.0001,The Philosophy of Social Evolution,2017,238,4,4,11,,12,2
+10.1093/0199273413.001.0001,"Value, Reality, and Desire",2005,239,2,14,49,5,3,5
+10.1093/oso/9780197555620.001.0001,Perspectival Realism,2022,240,13,3,6,3,8,1
+10.1093/oso/9780199255801.001.0001,Functions: New Essays in the Philosophy of Psychology and Biology,2002,241,2,10,8,,2,7
+10.1093/0199259755.001.0001,Moral Realism: A Defence,2003,242,2,14,49,1,3,5
+10.1093/oso/9780198855637.001.0001,Representation of Language: Philosophical Issues in a Chomskyan Linguistics,2020,243,5,8,21,3,6,4
+10.1017/cbo9781139172714,Complexity and the Function of Mind in Nature,1996,244,4,4,11,,12,2
+10.1093/acprof:oso/9780198714316.001.0001,Potentiality: From Dispositions to Modality,2015,245,13,3,6,,8,1
+10.1093/acprof:oso/9780199234103.001.0001,The Mind in Nature,2007,245,13,3,6,,8,1
+10.1017/cbo9780511626302,An Introduction to Symbolic Dynamics and Coding,1995,247,6,5,16,,3,1
+10.1017/cbo9780511806292,Evolution and the Theory of Games,1982,248,7,9,2,,5,2
+10.1093/acprof:oso/9780199697908.001.0001,Writing the Book of the World,2011,249,1,3,1,,8,1
+10.1017/cbo9781316348772,The Origin and Nature of Life on Earth: The Emergence of the Fourth Geosphere,2016,250,7,9,2,,5,2
+10.1017/cbo9780511621123,The Methodology of Scientific Research Programmes: Philosophical Papers,1978,251,6,12,13,,3,10
+10.1093/oso/9780198758501.001.0001,Out of Nowhere: The Emergence of Spacetime in Theories of Quantum Gravity,2025,252,1,2,7,3,1,3
+10.1017/cbo9780511583384,The Myth of Social Action,1996,253,6,5,4,,4,5
+10.1093/oso/9780199216246.001.0001,"Foundations of Mind: Philosophical Essays, Volume 2",2007,254,6,7,10,,3,1
+10.1017/cbo9780511815355,Situated Learning: Legitimate Peripheral Participation,1991,255,5,8,21,,6,4
+10.1093/acprof:oso/9780198749561.001.0001,Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem,2016,256,13,3,6,,8,1
+10.1017/cbo9780511559990,"More Heat than Light: Economics as Social Physics, Physics as Nature's Economics",1989,257,6,5,13,,3,4
+10.1017/cbo9780511488733,Being Human: The Problem of Agency,2000,258,6,5,4,,4,5
+10.1017/cbo9780511529726,Kinetic Theory of Living Pattern,1993,259,3,5,16,,3,2
+10.1093/acprof:oso/9780199692590.001.0001,The Origins of Evolutionary Innovations: A Theory of Transformative Change in Living Systems,2011,260,4,4,15,,7,2
+10.1093/oso/9780190933784.001.0001,"What Is A Chemical Element?: A Collection of Essays by Chemists, Philosophers, Historians, and Educators",2020,261,3,2,7,3,1,3
+10.1017/cbo9780511570612,Aristotle: The Desire to Understand,1988,262,6,5,16,,3,2
+10.1017/cbo9780511606847,Boundaries of the Mind: The Individual in the Fragile Sciences - Cognition,2001,263,5,8,23,4,6,4
+10.1017/cbo9780511763205,The Cambridge Handbook of Creativity,2010,264,6,5,27,4,4,5
+10.1093/oso/9780198746171.001.0001,Domains and Major Transitions of Social Evolution,2022,265,4,4,11,3,12,2
+10.1093/0195306589.001.0001,Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness,2006,266,11,3,28,5,8,4
+10.1093/acprof:oso/9780199671427.001.0001,Towards a Theory of Development,2014,267,4,4,11,,12,2
+10.1017/cbo9780511805431,Dynamics of Contention,2001,268,6,5,4,,4,5
+10.1017/cbo9780511626135,"Foundations of Complex-system Theories: In Economics, Evolutionary Biology, and Statistical Physics",1998,269,1,1,1,,3,2
+10.1093/oso/9780198549437.001.0001,Evolution of Social Insect Colonies: Sex Allocation and Kin Selection,1996,270,4,4,11,,12,2
+10.1093/acprof:oso/9780199251315.001.0001,The Nature of Normativity,2007,271,2,14,49,5,3,5
+10.1017/cbo9780511807763,Governing the Commons: The Evolution of Institutions for Collective Action,1990,272,10,6,31,,12,2
+10.1017/cbo9780511744082,Genetics and Philosophy: An Introduction,2013,273,4,4,5,,7,2
+10.1093/oso/9780198540625.001.0001,Epigenetic Inheritance and Evolution: The Lamarckian Dimension,1995,274,4,9,2,,7,2
+10.1017/cbo9780511563744,Current Issues in Philosophy of Mind,1998,275,2,7,54,,6,1
+10.1017/9781108685412,Inheritance Systems and the Extended Synthesis,2020,276,4,4,5,2,7,2
+10.1017/cbo9780511541476,"The Development of Animal Form: Ontogeny, Morphology, and Evolution",2003,277,7,9,2,,5,2
+10.1017/cbo9780511813955,Quantum Mechanics,2009,278,7,9,2,,5,2
+10.1093/oso/9780195160437.001.0001,Phenotypic Integration: Studying the Ecology and Evolution of Complex Phenotypes,2004,279,2,10,8,,2,2
+10.1017/9781108935517,Time,2021,280,3,2,34,5,9,3
+10.1093/acprof:oso/9780199282579.001.0001,The Metaphysics of Hyperspace,2005,281,1,3,1,5,8,1
+10.1017/cbo9781139342872,The Cambridge Handbook of Linguistic Anthropology,2014,282,8,11,38,4,11,6
+10.1017/cbo9781139136419,"Rational Intuition: Philosophical Roots, Scientific Investigations",2014,283,8,8,16,4,6,4
+10.1017/cbo9780511498381,Our Knowledge of the Past: A Philosophy of Historiography,2004,284,6,7,10,1,13,3
+10.1017/cbo9781139171533,An Introduction to Catastrophe Theory,1980,285,3,2,56,,3,1
+10.1093/oso/9780198755630.001.0001,Reality and its Structure,2018,286,3,2,3,,9,3
+10.1017/cbo9780511524646,The Large Scale Structure of Space-Time,1973,287,4,4,15,,7,2
+10.1017/cbo9780511624612,Moral Realism and the Foundations of Ethics,1989,288,2,14,49,,3,5
+10.1093/acprof:oso/9780195384260.001.0001,Effective Intentions,2009,289,2,1,62,,2,10
+10.1093/acprof:oso/9780199212521.001.0001,Quantum Gravity,2007,290,1,2,7,,1,3
+10.1017/cbo9780511811937,New Horizons in the Study of Language and Mind,2000,291,5,8,21,,6,4
+10.1093/oso/9780195080414.001.0001,Essays in Quasi-Realism,1993,292,2,14,49,,3,5
+10.1093/oso/9780198242567.001.0001,Objections To Physicalism,1993,293,13,3,6,,8,1
+10.1093/019513754x.001.0001,The Indispensability of Mathematics,2001,294,3,2,40,2,9,3
+10.1017/cbo9781139171724,The Structure of Biological Science,1985,295,7,9,13,,5,2
+10.1093/acprof:oso/9780199579969.001.0001,Taking Morality Seriously,2011,296,2,14,49,,3,5
+10.1017/cbo9780511625435,Scientific Realism and the Plasticity of Mind,1979,297,2,5,20,,2,2
+10.1017/cbo9780511470813,Conceptual Foundations of Quantum Field Theory,1999,298,1,7,39,,1,1
+10.1093/oso/9780190946814.001.0001,Contemporary Scientific Realism: The Challenge from the History of Science,2021,299,1,1,1,3,1,1
+10.1093/acprof:oso/9780199567911.001.0001,Metaphysical Themes 1274–1671,2011,300,6,5,4,,4,5
+10.1017/cbo9780511842382,"Plasticity, Robustness, Development and Evolution",2011,301,4,4,5,,7,2
+10.1017/cbo9780511527883,"Emotion, Development, and Self-Organization: Dynamic Systems Approaches to Emotional Development",2000,302,2,1,62,,3,10
+10.1093/oso/9780198862260.001.0001,The Gene's-Eye View of Evolution,2021,303,4,4,5,,7,2
+10.1093/acprof:oso/9780199592746.001.0001,Components of Emotional Meaning: A sourcebook,2013,304,2,1,62,,3,1
+10.1017/cbo9780511498824,Living without Free Will,2001,304,2,1,62,,3,1
+10.1017/cbo9780511550263,"Time, Reality & Experience",2002,306,3,2,34,,9,3
+10.1017/cbo9780511570971,The Logics of Social Structure,1993,307,6,5,13,,4,5
+10.1017/cbo9781139026185,The World in the Model: How Economists Work and Think,2012,308,11,7,43,2,3,4
+10.1017/cbo9780511525315,"Dictyostelium: Evolution, Cell Biology, and the Development of Multicellularity",2001,309,7,7,10,,5,4
+10.1017/cbo9781139108058,The Reflexive Imperative in Late Modernity,2012,310,6,5,4,2,4,5
+10.1093/oso/9780195122657.001.0001,The Oxford Handbook of Memory,2000,311,5,8,21,,6,4
+10.1017/cbo9780511614125,Molecular Reaction Dynamics,2005,312,4,9,2,6,5,2
+10.1093/oso/9780199282807.001.0001,Content and Modality: Themes from the Philosophy of Robert Stalnaker,2006,313,13,3,6,,8,1
+10.1093/oso/9780192896469.001.0001,Imitation of Rigor: An Alternative History of Analytic Philosophy,2021,314,3,2,7,,14,3
+10.1017/cbo9780511984624,A Student's Guide to Maxwell's Equations,2008,315,7,1,2,,11,5
+10.1017/9781108758970,The Biology of Reproduction,2019,316,4,4,11,2,12,2
+10.1017/cbo9780511608858,Algorithmic Information Theory,1987,317,7,9,2,,5,2
+10.1093/oso/9780198823810.001.0001,What Truth Is,2018,318,3,2,3,,9,3
+10.1093/oso/9780198867234.001.0001,Vagueness and the Evolution of Consciousness: Through the Looking Glass,2021,319,13,3,6,3,8,1
+10.1093/acprof:oso/9780199539543.001.0001,Plant Behaviour and Intelligence,2014,320,7,9,2,,5,2
+10.1017/cbo9781139087315,"Structure, Agency and the Internal Conversation",2003,321,6,5,4,,4,5
+10.1017/cbo9780511660108,Models as Mediators: Perspectives on Natural and Social Science,1999,322,11,7,44,,3,4
+10.1093/oso/9780195091953.001.0001,The Logic of Reliable Inquiry,1996,323,2,9,20,,2,8
+10.1017/cbo9780511840630,Understanding Early Civilizations: A Comparative Study,2003,324,7,9,77,4,5,11
+10.1017/cbo9780511780035,Human Evolution and the Origins of Hierarchies: The State of Nature,2010,325,7,9,77,,5,2
+10.1093/acprof:oso/9780195176421.001.0001,What Are We?: A Study in Personal Ontology,2007,326,13,3,58,5,8,1
+10.1093/acprof:oso/9780199581405.001.0001,Origins of Objectivity,2010,327,2,10,8,4,2,7
+10.1093/oso/9780195118254.001.0001,An Ecological Approach to Perceptual Learning and Development,2000,328,2,10,8,,5,6
+10.1017/cbo9781139095167,The Road to Maxwell's Demon: Conceptual Foundations of Statistical Mechanics,2012,329,1,7,44,,4,1
+10.1093/0199275831.001.0001,Physical Relativity: Space-time structure from a dynamical perspective,2005,330,18,18,35,2,6,1
+10.1017/cbo9780511607035,A Realist Philosophy of Social Science: Explanation and Understanding,2006,331,6,5,4,,4,5
+10.1017/cbo9781139626675,The Impact of Idealism: The Legacy of Post-Kantian German Thought,2013,332,12,12,13,5,3,10
+10.1093/oxfordhb/9780195304787.001.0001,The Oxford Handbook of Philosophy and Neuroscience,2009,333,4,1,,3,1,1
+10.1093/oso/9780190494599.001.0001,Essays in the Philosophy of Chemistry,2016,334,3,2,6,,1,3
+10.1093/oso/9780195080391.001.0001,The Unfinished Universe,1993,335,7,9,2,,5,2
+10.1017/9781316995457,"Collapse of the Wave Function: Models, Ontology, Origin, and Implications",2018,336,3,2,6,,1,3
+10.1093/acprof:oso/9780199673421.001.0001,Chance and Temporal Asymmetry,2014,337,1,5,1,,3,1
+10.1017/cbo9781107050242,"Scaling, Self-similarity, and Intermediate Asymptotics: Dimensional Analysis and Intermediate Asymptotics",1996,338,21,7,53,6,14,3
+10.1017/9781107295490,How Biology Shapes Philosophy: New Foundations for Naturalism,2016,339,4,4,15,,7,2
+10.1093/acprof:oso/9780198238515.001.0001,A Theory of Sentience,2000,340,13,3,6,,8,1
+10.1093/acprof:oso/9780199217274.001.0001,Symbols and EmbodimentDebates on meaning and cognition,2008,341,7,9,2,,5,2
+10.1093/oxfordhb/9780199270439.001.0001,The Oxford Handbook of Contextual Political Analysis,2006,342,6,5,4,3,4,5
+10.1017/cbo9780511488863,The Moral Significance of Class,2005,343,6,5,4,1,4,5
+10.1017/cbo9781139173438,Speech Acts: An Essay in the Philosophy of Language,1969,344,8,11,41,,11,6
+10.1017/cbo9780511572203,Method and Appraisal in Economics,1976,345,6,5,13,,3,10
+10.1017/cbo9780511664670,"New Approaches to Macroeconomic Modeling: Evolutionary Stochastic Dynamics, Multiple Equilibria, and Externalities as Field Effects",1996,345,6,5,13,,3,10
+10.1093/oso/9780195069945.001.0001,Emotion And Adaptation,1991,347,6,5,48,,4,1
+10.1017/cbo9780511543708,The Self in Neuroscience and Psychiatry,2003,348,8,6,21,4,6,10
+10.1017/ccol0521441226,The Cambridge Companion to Early Greek Philosophy,1999,349,11,7,43,,3,4
+10.1093/acprof:oso/9780199202416.001.0001,The Concealed Art of the Soul: Theories of Self and Practices of Truth in Indian Ethics and Epistemology,2007,350,8,4,59,5,2,8
+10.1093/0195139305.001.0001,Philosophy of Mathematics: Structure and Ontology,2000,351,2,7,40,2,6,1
+10.1017/cbo9780511613876,On Nature and Language,2002,352,5,8,21,4,6,4
+10.1093/acprof:oso/9780195324259.001.0001,How Can the Human Mind Occur in the Physical Universe?,2007,353,5,8,21,,6,4
+10.1093/oso/9780198717195.001.0001,Beyond Concepts,2017,354,8,11,22,,11,6
+10.1017/cbo9781139173216,Genetics and Reductionism,1998,355,4,5,5,,3,2
+10.1093/0199256586.001.0001,"Truth, Rationality, and Pragmatism: Themes from Peirce",2002,356,2,7,54,1,6,1
+10.1017/9781107283954,Beyond Evolutionary Psychology: How and Why Neuropsychological Modules Arise,2017,357,4,4,15,,7,2
+10.1093/acprof:oso/9780198568797.001.0001,Pillars of Evolution: Fundamental principles of the eco-evolutionary process,2011,357,4,4,15,,7,2
+10.1093/acprof:oso/9780199587865.001.0001,The Noisy BrainStochastic Dynamics as a Principle of Brain Function,2010,357,4,4,15,,7,2
+10.1017/cbo9781139542357,Understanding Evolution,2014,357,4,4,15,,7,2
+10.1017/cbo9780511612602,Reflection without Rules: Economic Methodology and Contemporary Science Theory,2001,361,6,5,4,,4,5
+10.1093/oso/9780198262381.001.0001,Law As A Social System,2004,362,6,5,4,,4,5
+10.1093/0198297556.001.0001,Inclusion and Democracy,2002,363,6,5,4,1,4,5
+10.1017/cbo9780511491764,"Agents, Structures and International Relations: Politics as Ontology",2006,364,6,5,4,,4,5
+10.1017/cbo9780511491481,Causation in International Relations: Reclaiming Causal Analysis,2008,364,6,5,4,,4,5
+10.1093/oso/9780190073008.001.0001,Memory: A Self-Referential Account,2019,366,5,8,21,,6,4
+10.1093/acprof:oso/9780190241537.001.0001,Seeing the Future: Theoretical Perspectives on Future-Oriented Mental Time Travel,2016,366,5,8,21,,6,4
+10.1017/cbo9780511597954,Representation Reconsidered,2007,368,2,10,8,,2,7
+10.1017/cbo9780511812880,Philosophy of the Social Sciences: Philosophical Theory and Scientific Practice,2009,369,9,6,14,2,15,8
+10.1017/cbo9781316282755,New Perspectives on Human Development,2017,370,4,4,5,4,7,6
+10.1017/cbo9780511542251,Animal Traditions: Behavioural Inheritance in Evolution,2000,371,4,4,5,,7,6
+10.1093/acprof:oso/9780199242009.001.0001,Functions in Mind: A Theory of Intentional Content,2001,372,2,10,8,5,2,7
+10.1093/0199243824.001.0001,Thinking about Consciousness,2002,373,11,3,28,5,8,4
+10.1093/acprof:oso/9780199261482.001.0001,Self-Knowing Agents,2007,374,2,3,20,5,2,8
+10.1093/acprof:oso/9780199231546.001.0001,"Disjunctivism: Perception, Action, Knowledge",2008,375,2,10,8,1,2,7
+10.1093/acprof:oso/9780199283569.001.0001,Truthmakers,2005,376,3,2,3,,9,3
+10.1017/9781316275603,The Logic in Philosophy of Science,2019,377,18,18,35,2,6,1
+10.1017/cbo9780511625268,"Mathematics, Matter and Method: Philosophical Papers",1979,378,1,1,40,,1,1
+10.1017/cbo9781139172189,Perturbation Methods,1991,379,3,2,56,,14,3
+10.1017/cbo9780511804649,Critique of Pure Reason,1998,380,12,12,13,,3,10
+10.1093/acprof:osobl/9780195396171.001.0001,Making the Social World: The Structure of Human Civilization,2010,381,9,6,25,,11,5
+10.1017/cbo9780511812859,Philosophy in a New Century: Selected Essays,2008,382,13,3,64,1,8,1
+10.1093/oso/9780198823629.001.0001,"Human Being, Bodily Being",2018,383,13,3,6,,8,1
+10.1093/oso/9780197643075.001.0001,The Matter of Wonder: Abhinavagupta's Panentheism and the New Materialism,2023,383,13,3,6,,8,1
+10.1093/acprof:oso/9780190217013.001.0001,"Surfing Uncertainty: Prediction, Action, and the Embodied Mind",2016,385,4,4,15,,2,6
+10.1093/oso/9780195096736.001.0001,Affective Neuroscience: The Foundations of Human and Animal Emotions,1998,386,8,4,59,,7,6
+10.1093/acprof:oso/9780195314595.001.0001,The Conscious Brain,2012,387,13,3,64,,8,1
+10.1093/acprof:oso/9780199929023.001.0001,"The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and the Social Imagination",2013,388,5,8,12,1,13,9
+10.1017/cbo9781139173483,Human Agency and Language: Philosophical Papers,1985,389,2,3,20,,2,8
+10.1093/0195036468.001.0001,Philosophical Papers Volume II,1987,390,1,1,47,5,1,1
+10.1017/9781316848319,Technology and Isolation,2017,391,9,6,25,,11,5
+10.1017/cbo9781139169202,The Reality of Social Construction,2012,391,9,6,25,,11,5
+10.1017/cbo9780511818172,The Importance of What We Care About: Philosophical Essays,1988,393,9,6,14,,15,8
+10.1017/cbo9780511554476,The Sources of Normativity,1996,394,2,10,9,,2,7
+10.1093/acprof:oso/9780195367638.001.0001,The Origin of Concepts,2009,395,5,8,18,,13,9
+10.1017/cbo9780511609268,"Cognition in Practice: Mind, Mathematics and Culture in Everyday Life",1988,396,5,8,23,,6,4
+10.1017/cbo9780511762154,How Well Do Facts Travel?: The Dissemination of Reliable Knowledge,2010,397,11,7,65,2,3,4
+10.1093/acprof:oso/9780198270126.001.0001,"Foundations of Language: Brain, Meaning, Grammar, Evolution",2002,398,8,11,22,4,11,6
+10.1017/cbo9780511676291,"Consciousness, Awareness, and Anesthesia",2010,399,13,3,64,4,8,1
+10.1093/acprof:oso/9780198508571.001.0001,"The Unity of ConsciousnessBinding, Integration, and Dissociation",2003,399,13,3,64,,8,1
+10.1093/acprof:oso/9780199691982.001.0001,Processes of LifeEssays in the Philosophy of Biology,2012,401,4,4,5,,7,2
+10.1017/cbo9780511583261,The Body in Mind: Understanding Cognitive Processes,1999,402,5,8,23,,6,4
+10.1017/cbo9780511806421,Explaining Social Behavior: More Nuts and Bolts for the Social Sciences,2007,403,6,5,48,,4,1
+10.1093/acprof:oso/9780195313390.001.0001,The Philosophy of Sociality: The Shared Point of View,2007,404,9,6,8,1,15,7
+10.1017/cbo9780511804564,Counterfactuals and Causal Inference: Methods and Principles for Social Research,2007,405,1,1,47,,4,1
+10.1093/acprof:oso/9780199265893.001.0001,The Images of Time: An Essay on Temporal Representation,2007,406,3,2,34,5,9,3
+10.1017/9781108868167,Neanderthal Language: Demystifying the Linguistic Powers of our Extinct Cousins,2020,407,4,4,15,4,11,6
+10.1017/cbo9780511813375,The Presocratic Philosophers: A Critical History with a Selection of Texts,1983,408,3,2,34,,9,3
+10.1093/oso/9780198812883.001.0001,Representation in Cognitive Science,2018,409,2,10,8,,2,7
+10.1017/cbo9781139696463,A Guide to Monte Carlo Simulations in Statistical Physics,2014,410,7,9,2,6,14,2
+10.1093/acprof:oso/9780199970148.001.0001,Joint Commitment: How We Make the Social World,2013,411,8,11,41,3,11,11
+10.1093/acprof:oso/9780199574131.001.0001,Causality in the Sciences,2011,412,1,1,47,,1,1
+10.1017/cbo9780511618369,The Geometry of Evolution: Adaptive Landscapes and Theoretical Morphospaces,2006,413,3,2,74,,14,3
+10.1093/oso/9780195100358.001.0001,The Handicap Principle: A Missing Piece of Darwin’s Puzzle,1997,414,10,6,27,,12,2
+10.1017/cbo9780511790904,General Relativity: An Introduction for Physicists,2006,415,3,2,34,,9,3
+10.1017/cbo9780511622632,Quantum Fields in Curved Space,1982,416,3,2,34,,9,3
+10.1017/cbo9780511624940,From a Biological Point of View: Essays in Evolutionary Philosophy,1994,417,2,14,33,,10,5
+10.1017/9781009029285,Expanding Horizons in the History of Science,2021,418,6,8,27,2,6,4
+10.1017/cbo9780511498442,"Reasoning in Biological Discoveries: Essays on Mechanisms, Interfield Relations, and Anomaly Resolution",2006,419,7,9,2,2,2,5
+10.1017/9781108885676,Epistemology of Experimental Physics,2021,420,11,7,44,2,3,1
+10.1093/oso/9780199256044.001.0001,Reassembling the Social: An Introduction to Actor-Network-Theory,2005,421,6,5,38,,4,5
+10.1093/oso/9780195060232.001.0001,The Adapted Mind: Evolutionary Psychology and the Generation of Culture,1992,422,10,6,27,,12,7
+10.1017/cbo9780511551574,Model Theory,1993,423,18,18,35,,6,1
+10.1093/oso/9780190097196.001.0001,"Neglected Classics of Philosophy, Volume 2",2022,424,3,2,66,3,9,3
+10.1093/oso/9780198869108.001.0001,A Mind Over Matter: Philip Anderson and the Physics of the Very Many,2021,425,3,2,66,,9,3
+10.1093/oso/9780190925512.001.0001,Powers: A History,2021,425,3,2,66,,9,3
+10.1093/0198295383.001.0001,Economic Democracy: The Politics of Feasible Socialism,1998,427,6,5,38,1,4,11
+10.1093/oxfordhb/9780199734689.001.0001,The Oxford Handbook of Thinking and Reasoning,2012,428,8,11,45,4,2,8
+10.1017/cbo9780511800153,Adam Smith: The Theory of Moral Sentiments,2002,429,6,5,48,,4,3
+10.1017/cbo9780511659904,Emotions and Beliefs: How Feelings Influence Thoughts,2000,429,6,5,48,,4,3
+10.1017/cbo9780511610202,Emotions: An Essay in Aid of Moral Psychology,2003,429,6,5,48,,4,3
+10.1017/cbo9780511525636,Machiavellian Intelligence II: Extensions and Evaluations,1997,432,4,4,5,,7,2
+10.1017/cbo9780511597985,Theories of Theories of Mind,1996,433,9,6,25,,11,5
+10.1093/acprof:oso/9780195054927.001.0001,Neuromotor Mechanisms in Human Communication,1993,434,4,4,15,,5,6
+10.1093/acprof:oso/9780192632449.001.0001,Darwinizing CultureThe Status of Memetics as a Science,2001,435,6,5,4,,4,5
+10.1093/0195138791.001.0001,Pathways to Knowledge: Private and Public,2002,436,5,8,12,1,13,9
+10.1093/oso/9780195073256.001.0001,"Semantics, Culture, and Cognition: Universal Human Concepts in Culture-Specific Configurations",1992,437,5,8,23,,6,4
+10.1017/cbo9780511520068,Causes and Coincidences,1992,438,1,3,1,,8,1
+10.1017/cbo9780511805851,Empathy and Moral Development: Implications for Caring and Justice,2000,439,16,16,60,,18,10
+10.1017/cbo9781139644129,What is Life?: With Mind and Matter and Autobiographical Sketches,1992,440,7,9,2,,5,2
+10.1017/cbo9780511819582,The Social Life of Things: Commodities in Cultural Perspective,1986,441,5,8,23,,6,4
+10.1017/cbo9780511570667,Probabilistic Causality,1991,442,1,1,47,,2,1
+10.1093/acprof:oso/9780199557912.001.0001,Epistemological Disjunctivism,2012,443,2,10,8,,2,7
+10.1017/cbo9780511609213,Expression and Meaning: Studies in the Theory of Speech Acts,1979,444,8,11,41,,11,6
+10.1093/acprof:oso/9780198524069.001.0001,"Memory: Systems, Process, or Function?",1999,445,5,8,23,,6,4
+10.1017/cbo9780511527913,Remembering our Past: Studies in Autobiographical Memory,1996,445,5,8,23,,6,4
+10.1093/oso/9780198551683.001.0001,Atoms in Molecules: A Quantum Theory,1990,447,1,1,40,,1,1
+10.1017/cbo9780511805042,The Philosophical Writings of Descartes,1985,448,1,1,1,,1,1
+10.1017/cbo9780511792601,"Evolution and Rationality: Decisions, Co-operation and Strategic Behaviour",2012,449,9,6,25,4,11,7
+10.1093/acprof:oso/9780199654703.001.0001,Skillful Coping: Essays on the phenomenology of everyday perception and action,2014,450,2,3,20,,2,8
+10.1017/cbo9780511663710,Causal Asymmetries,1998,451,6,7,10,,9,1
+10.1093/acprof:oso/9780199276011.001.0001,The Epistemology of Testimony,2006,452,5,8,12,1,13,9
+10.1017/cbo9780511487491,Phenomenal Consciousness: A Naturalistic Theory,2000,453,11,3,28,,2,4
+10.1093/acprof:oso/9780199245635.001.0001,Joint Attention: Communication and Other Minds,2005,454,9,6,14,,15,8
+10.1093/0199251223.001.0001,Knowledge by Agreement,2002,455,5,8,18,,13,9
+10.1093/acprof:oso/9780195332834.001.0001,"The Innate Mind, Volume 3: Foundations and the Future",2008,456,4,4,5,4,7,2
+10.1017/cbo9781139198394,Biosocial Becomings: Integrating Social and Biological Anthropology,2013,457,4,4,5,,7,2
+10.1017/cbo9780511621765,Living and Working with the New Medical Technologies: Intersections of Inquiry,2000,457,4,4,5,,7,2
+10.1093/acprof:oso/9780195316872.001.0001,Social Neuroscience,2011,457,4,4,5,,7,2
+10.1017/ccol9780521851282,The Cambridge Companion to the Philosophy of Biology,2007,457,4,4,5,,7,2
+10.1093/acprof:oso/9780195301069.001.0001,Rhythms of the Brain,2006,461,2,10,8,,2,7
+10.1017/cbo9780511623257,Modeling Brain Function: The World of Attractor Neural Networks,1989,462,3,9,7,,5,3
+10.1017/cbo9780511755576,Biological Physics of the Developing Embryo,2005,463,4,4,5,2,7,2
+10.1093/acprof:oso/9780195168143.001.0001,A Place for Consciousness,2004,464,11,3,28,,8,4
+10.1093/oxfordhb/9780198735410.001.0001,The Oxford Handbook of 4E Cognition,2018,465,5,8,21,,6,4
+10.1017/cbo9780511817755,The Evolution of Human Language: Biolinguistic Perspectives,2010,466,4,4,5,4,7,6
+10.1017/cbo9781139644167,The Quantum Theory of Fields,1995,467,1,7,39,,1,1
+10.1093/acprof:oso/9780190269449.001.0001,How Physics Makes Us Free,2016,468,15,15,17,,17,14
+10.1017/cbo9780511623295,What is Life? The Next Fifty Years: Speculations on the Future of Biology,1995,469,7,9,2,,5,2
+10.1017/ccol9780521561495,The Cambridge Companion to Weber,2000,470,8,5,16,,11,6
+10.1017/cbo9781139174619,Language in Cognitive Development: The Emergence of the Mediated Mind,1996,471,9,6,14,,5,11
+10.1093/acprof:oso/9780199665327.001.0001,The Social Origins of Language,2014,472,4,4,5,,7,6
+10.1093/oso/9780198249856.001.0001,"Wise Choices, Apt Feelings: A Theory of Normative Judgment",1990,473,2,14,33,,10,5
+10.1017/cbo9780511526817,From Neuropsychology to Mental Structure,1988,474,11,9,28,,5,4
+10.1093/oso/9780190854614.001.0001,Squeezing Minds From Stones: Cognitive Archaeology and the Evolution of the Human Mind,2019,475,4,4,15,3,11,6
+10.1093/acprof:oso/9780198250067.001.0001,Selves,2009,476,13,3,58,,8,1
+10.1017/cbo9780511810626,Marking the Mind: A History of Memory,2008,477,5,8,23,,6,4
+10.1093/oso/9780198250517.001.0001,Philosophy of mental Representation,2002,477,5,8,23,,6,4
+10.1093/acprof:oso/9780190256623.001.0001,The Instruction of Imagination: Language as a Social Communication Technology,2015,479,4,4,5,,7,6
+10.1093/oso/9780198864523.001.0001,"Conversations in Philosophy, Law, and Politics",2024,480,6,5,81,3,4,5
+10.1093/oso/9780192898852.001.0001,"Belief, Agency, and Knowledge: Essays on Epistemic Normativity",2022,481,5,8,18,3,13,9
+10.1017/9781316819142,Kant's Lectures on Metaphysics: A Critical Guide,2019,482,12,12,13,1,16,12
+10.1093/acprof:oso/9780199370368.001.0001,Intersectionality: An Intellectual History,2016,483,6,5,81,,4,5
+10.1093/oso/9780197666777.001.0001,"Ontology and Oppression: Race, Gender, and Social Reality",2023,483,6,5,81,3,4,5
+10.1093/oso/9780192894267.001.0001,"The Tinkering Mind: Agency, Cognition, and the Extended Mind",2022,485,5,8,18,3,13,9
+10.1017/cbo9781316492901,Kant's Analytic,2016,486,13,3,6,,8,1
+10.1093/acprof:osobl/9780199227341.001.0001,"Music, Language, and Human Evolution",2012,487,4,4,5,,7,6
+10.1093/oso/9780198753421.001.0001,Musical Emotions Explained: Unlocking the Secrets of Musical Affect,2019,488,4,4,5,3,7,6
+10.1093/oso/9780199253944.001.0001,Organized Uncertainty: Designing a World of Risk Management,2007,489,6,5,4,,4,5
+10.1017/cbo9781139381772,Causal Reasoning in Physics,2014,490,3,2,3,,9,3
+10.1093/acprof:oso/9780195189698.001.0001,Intricate Ethics,2007,491,17,17,26,,19,8
+10.1093/acprof:oso/9780198522379.001.0001,Consciousness in Contemporary Science,1992,492,2,7,54,,6,1
+10.1093/acprof:oso/9780198245537.001.0001,How To Do Things With Words: The William James Lectures delivered at Harvard University in 1955,1975,493,8,11,45,,2,8
+10.1093/acprof:oso/9780199570355.001.0001,Subjective Consciousness,2009,494,11,3,28,,2,4
+10.1017/cbo9780511625190,Faces of Intention: Selected Essays on Intention and Agency,1999,495,9,6,14,,15,8
+10.1017/9781108923361,Cognitive Neuroscience,2023,496,11,3,28,,8,4
+10.1017/9781009057530,Pavlov's Legacy: How and What Animals Learn,2023,496,11,3,28,,8,4
+10.1093/acprof:oso/9780198237907.001.0001,Epistemic Injustice: Power and the Ethics of Knowing,2007,498,5,8,12,1,13,9
+10.1017/cbo9781139175302,"Individuals, Institutions, and Markets",2001,499,10,6,31,,12,2
+10.1093/acprof:oso/9780199203147.001.0001,The Primordial EmotionsThe dawning of consciousness,2006,500,4,4,59,,7,6
+10.1017/cbo9780511543296,The Shaping of Deduction in Greek Mathematics: A Study in Cognitive History,1999,501,5,8,18,,13,9
+10.1093/acprof:oso/9780199272273.001.0001,Agency and Answerability: Selected Essays,2004,502,9,6,14,1,15,8
+10.1017/cbo9780511621239,Towards Justice and Virtue: A Constructive Account of Practical Reasoning,1996,503,2,3,24,,2,15
+10.1093/acprof:oso/9780199590681.001.0001,"Self and Other: Exploring Subjectivity, Empathy, and Shame",2014,504,2,3,20,,2,7
+10.1017/9781316544846,Re-Engineering Humanity,2018,505,5,8,12,,13,9
+10.1093/acprof:oso/9780199564460.001.0001,The Case for Contextualism,2009,505,5,8,12,,13,9
+10.1093/acprof:oso/9780195310139.001.0001,The Innate Mind: Volume 2: Culture and Cognition,2007,507,2,10,9,,2,7
+10.1093/oso/9780198811565.001.0001,The Tools of Metaphysics and the Metaphysics of Science,2020,508,18,18,35,,6,1
+10.1017/cbo9780511498725,Information Technology and Moral Philosophy,2008,509,5,8,12,1,13,9
+10.1017/cbo9780511804397,"Contingency, Irony, and Solidarity",1989,510,8,11,38,,2,10
+10.1017/cbo9780511609107,"Creating Modern Probability: Its Mathematics, Physics and Philosophy in Historical Perspective",1994,511,21,7,53,,14,3
+10.1093/acprof:oso/9780199228782.001.0001,Intelligent Virtue,2011,512,2,3,20,,2,8
+10.1093/acprof:oso/9780199602162.001.0001,The Philosophy of Metacognition: Mental Agency and Self-Awareness,2013,513,5,8,18,,13,9
+10.1017/cbo9780511808678,"Institutions, Institutional Change and Economic Performance",1990,514,10,6,36,,12,11
+10.1017/cbo9781139878364,Lack of Character: Personality and Moral Behavior,2002,515,2,14,63,,2,5
+10.1017/cbo9780511612909,Physics Meets Philosophy at the Planck Scale: Contemporary Theories in Quantum Gravity,2001,516,1,2,7,,14,3
+10.1017/cbo9780511620539,Using Language,1996,517,8,11,38,,11,6
+10.1017/cbo9781139173339,"Kant on Freedom, Law, and Happiness",2000,518,12,12,19,,16,12
+10.1017/cbo9780511487316,Kant's Groundwork of the Metaphysics of Morals: A Commentary,2007,519,12,12,19,,16,12
+10.1017/cbo9780511779466,Kant's Theory of Virtue: The Value of Autocracy,2010,519,12,12,19,,16,12
+10.1093/acprof:oso/9780190498511.001.0001,Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting,2016,521,17,17,26,,19,8
+10.1017/cbo9780511770869,Kant's Critique of Practical Reason: A Critical Guide,2009,522,12,12,13,,2,12
+10.1017/cbo9780511800511,Amartya Sen,2009,523,15,15,17,1,17,14
+10.1093/acprof:oso/9780199659982.001.0001,Mental Files,2012,524,5,8,18,,13,9
+10.1093/oso/9780199237067.001.0001,Oxford Studies In Epistemology,2007,524,5,8,18,,13,9
+10.1093/acprof:oso/9780199606191.001.0001,Reasoning: A Social Picture,2012,524,5,8,18,,13,9
+10.1093/acprof:oso/9780199217250.001.0001,Reflective Knowledge,2009,524,5,8,18,,13,9
+10.1017/cbo9780511617515,"Truth, Error, and Criminal Law: An Essay in Legal Epistemology",2006,524,5,8,18,,13,9
+10.1093/acprof:oso/9780199692972.001.0001,Understanding Other Minds: Perspectives from developmental social neuroscience,2013,524,5,8,18,,13,9
+10.1017/cbo9781139173254,Kant's Ethical Thought,1999,530,12,12,19,,16,12
+10.1017/cbo9780511488856,Powers of Freedom: Reframing Political Thought,1999,531,14,13,29,,10,13
+10.1017/cbo9780511802058,Aristotle: Nicomachean Ethics,2000,532,15,15,17,,2,14
+10.1093/oxfordhb/9780199238842.001.0001,The Oxford Handbook of The History of Analytic Philosophy,2013,533,16,16,37,,18,10
+10.1093/acprof:oso/9780199232383.001.0001,The Philosophy of Information,2011,534,2,11,45,,2,8
+10.1093/acprof:oso/9780198716778.001.0001,Body Aesthetics,2016,535,14,13,30,,10,13
+10.1017/cbo9780511806308,Evolution of the Social Contract,1996,536,10,6,27,,12,7
+10.1017/cbo9781139165419,Gilles Deleuze: An Introduction,2005,537,2,3,20,,2,8
+10.1093/acprof:oso/9780199581139.001.0001,Animal Eyes,2012,538,2,10,8,,2,7
+10.1093/acprof:oso/9780199375035.001.0001,The Innocent Eye: Why Vision Is Not a Cognitive Process,2014,538,2,10,8,,2,7
+10.1017/cbo9780511622847,From Physics to Metaphysics,1995,540,1,7,10,,1,3
+10.1093/acprof:oso/9780199897933.001.0001,Shared Agency: A Planning Theory of Acting Together,2014,541,9,6,14,,15,8
+10.1093/acprof:oso/9780199299508.001.0001,Slaves of the Passions,2007,541,9,6,14,,15,8
+10.1093/acprof:oso/9780199557882.001.0001,The Retrieval of Ethics,2009,541,9,6,14,,15,8
+10.1017/9781108778398,The Work of Politics: Making a Democratic Welfare State,2020,544,15,15,17,1,17,14
+10.1017/cbo9781139173179,Evolutionary Games and Population Dynamics,1998,545,5,8,12,,13,9
+10.1017/9781316339732,The Cambridge Handbook of Cognitive Linguistics,2017,546,2,10,8,,2,6
+10.1093/019824908x.001.0001,Reasons and Persons,1986,547,4,4,,1,7,6
+10.1093/oso/9780195102512.001.0001,Cognitive Foundations of Grammar,1997,548,2,10,8,,2,6
+10.1017/cbo9780511619205,The Future of Gender,2007,549,15,15,17,1,17,14
+10.1017/cbo9780511486753,Grammars of Space: Explorations in Cognitive Diversity,2006,550,2,10,8,,2,6
+10.1017/cbo9781139017428,On the People's Terms: A Republican Theory and Model of Democracy,2012,551,15,15,17,,17,14
+10.1017/cbo9780511752421,"Economics in Nature: Social Dilemmas, Mate Choice and Biological Markets",2001,552,10,6,31,,12,2
+10.1093/acprof:oso/9780190468538.001.0001,Democracy against Domination,2017,553,15,15,17,,17,14
+10.1093/oso/9780192867698.001.0001,Exploitation as Domination: What Makes Capitalism Unjust,2022,553,15,15,17,3,17,14
+10.1093/oso/9780197509579.001.0001,Nonideal Social Ontology: The Power View,2023,553,15,15,17,3,17,14
+10.1093/oso/9780198796725.001.0001,Radical Republicanism: Recovering the Tradition's Popular Heritage,2020,553,15,15,17,,17,14
+10.1017/9781108951722,Rethinking Liberty before Liberalism,2022,553,15,15,17,,17,14
+10.1093/oxfordhb/9780199585977.001.0001,The Oxford Handbook of Political Ideologies,2013,553,15,15,17,3,17,14
+10.1093/oso/9780192859556.001.0001,The Well-Ordered Republic,2022,553,15,15,17,,17,14
+10.1017/cbo9781139644174,The Quantum Theory of Fields,1996,560,1,7,39,,1,1
+10.1093/oso/9780197531389.001.0001,The Pleistocene Social Contract: Culture and Cooperation in Human Evolution,2021,561,2,10,9,3,2,7
+10.1093/0198237545.001.0001,Problems of Rationality,2004,562,9,10,32,,2,7
+10.1017/cbo9780511571190,Social Motivation: Understanding Children's School Adjustment,1996,563,2,7,54,,6,1
+10.1093/oso/9780198846345.001.0001,Action and Interaction,2020,564,9,6,32,3,15,6
+10.1093/acprof:oso/9780195178111.001.0001,Natural Justice,2005,565,10,6,36,1,12,11
+10.1093/oso/9780192894076.001.0001,Rethinking Moral Status,2021,566,17,17,26,3,19,8
+10.1093/acprof:oso/9780199287185.001.0001,Fear of Knowledge,2006,567,8,8,16,,3,4
+10.1093/oso/9780198517290.001.0001,Statistical Mechanics of Phase Transitions,1992,568,21,7,53,,14,3
+10.1093/acprof:oso/9780199654888.001.0001,"The Emotional Power of Music: Multidisciplinary perspectives on musical arousal, expression, and social control",2013,569,9,10,32,,2,6
+10.1093/acprof:oso/9780199337095.001.0001,Newton and Empiricism,2014,570,11,7,44,,3,1
+10.1017/cbo9780511817779,The Evolution of Language,2010,571,8,11,22,,11,6
+10.1093/acprof:oso/9780199580828.001.0001,"Signals: Evolution, Learning, and Information",2010,572,10,6,27,4,12,7
+10.1017/cbo9781139173490,Philosophy and the Human Sciences: Philosophical Papers,1985,573,10,6,36,,12,11
+10.1017/cbo9780511755743,Synchronization: A Universal Concept in Nonlinear Sciences,2001,574,9,10,32,,2,6
+10.1017/cbo9780511498923,Intellectual Trust in Oneself and Others,2001,575,5,8,12,,13,9
+10.1017/cbo9781139162524,Philosophy of Microbiology,2014,576,4,4,5,,7,2
+10.1017/cbo9780511626180,The Molecular Origins of Life: Assembling Pieces of the Puzzle,1998,577,7,9,10,,5,2
+10.1017/cbo9780511541667,Integrative Action of the Autonomic Nervous System: Neurobiology of Homeostasis,2006,578,9,10,32,,2,6
+10.1093/acprof:oso/9780199595327.001.0001,Geometric Possibility,2011,579,18,18,35,,6,1
+10.1017/cbo9780511812507,Outline of a Theory of Practice,1977,580,6,5,4,,17,14
+10.1017/ccol0521365872,The Cambridge Companion to Kant,1992,581,12,12,13,,3,10
+10.1093/acprof:oso/9780199933662.001.0001,Simulation and Similarity: Using Models to Understand the World,2013,582,2,10,8,,7,2
+10.1017/cbo9780511803932,"Communities of Practice: Learning, Meaning, and Identity",1998,583,5,8,23,,6,4
+10.1017/cbo9780511487521,"Anti-Individualism: Mind and Language, Knowledge and Justification",2007,584,5,8,12,,13,9
+10.1093/acprof:oso/9780199593248.001.0001,Relying on Others,2010,584,5,8,12,,13,9
+10.1017/cbo9780511498572,The Problem of Animal Generation in Early Modern Philosophy,2006,586,12,12,13,,3,10
+10.1017/cbo9780511524240,Bose-Einstein Condensation,1995,587,1,7,39,,1,1
+10.1093/acprof:oso/9780198526438.001.0001,Quantum Liquids: Bose condensation and Cooper pairing in condensed-matter systems,2006,587,1,7,39,6,1,1
+10.1017/cbo9780511790478,Lichen Biology,2008,589,4,4,11,,7,2
+10.1093/oso/9780195118063.001.0001,Symbiosis: An Introduction to Biological Associations,2000,589,4,4,11,,7,2
+10.1093/oso/9780198546412.001.0001,The Comparative Method in Evolutionary Biology,1991,591,7,7,10,,5,4
+10.1093/acprof:osobl/9780195111194.001.0001,From Detached Concern to Empathy: Humanizing Medical Practice,2001,592,9,17,23,,15,8
+10.1017/cbo9781139164931,Computability and Logic,2002,593,18,18,35,,6,4
+10.1093/oxfordhb/9780199298204.001.0001,The Oxford Handbook of Philosophy of Time,2011,594,21,7,53,,14,3
+10.1093/acprof:oso/9780198748946.001.0001,Experiencing Time,2016,595,3,2,34,,9,3
+10.1017/cbo9780511570896,The Sources of Social Power,1986,596,6,5,4,,4,5
+10.1017/cbo9780511628283,Bringing the State Back In,1985,597,6,5,4,,4,5
+10.1093/oso/9780195178135.001.0001,Catastrophe: Risk and Response,2004,597,6,5,4,,4,5
+10.1017/cbo9780511818240,The International Handbook of Creativity,2006,599,6,5,27,4,4,5
+10.1017/cbo9780511790881,"Modernization, Cultural Change, and Democracy: The Human Development Sequence",2001,600,2,14,33,1,10,5
+10.1093/oso/9780195165241.001.0001,The Origin and Evolution of Cultures,2005,601,9,6,25,,11,5
+10.1093/oso/9780199250653.001.0001,The Transition to Language,2002,602,8,11,22,,11,6
+10.1017/cbo9780511554544,Explaining Chaos,1998,603,21,7,53,,14,3
+10.1017/cbo9780511552564,Philosophical Issues in Aristotle's Biology,1987,604,3,2,,,14,3
+10.1093/0198235089.001.0001,Natural Goodness,2001,605,2,14,63,1,10,5
+10.1017/cbo9780511499722,Lifespan Development and the Brain: The Perspective of Biocultural Co-Constructivism,2006,606,9,6,27,4,20,6
+10.1093/0198250126.001.0001,A Subject With No Object,1999,607,18,18,35,,6,1
+10.1093/acprof:oso/9780198777915.001.0001,Science without Numbers,2016,607,18,18,35,,6,1
+10.1093/oso/9780199279401.001.0001,The Talking Ape: How Language Evolved,2005,609,8,11,22,,11,6
+10.1017/cbo9780511546921,"Prediction, Learning, and Games",2006,610,5,8,12,,13,9
+10.1093/acprof:oso/9780199269181.001.0001,Strategic Learning and its Limits,2004,610,5,8,12,,13,9
+10.1017/9781108649162,"Metaphor in Homer: Time, Speech, and Thought",2019,612,11,7,43,4,3,4
+10.1093/acprof:osobl/9780199896684.001.0001,How the Brain Got Language: The Mirror System Hypothesis,2012,613,8,11,22,,11,6
+10.1017/cbo9780511616037,The Grammar of Society: The Nature and Dynamics of Social Norms,2005,614,10,10,9,,2,7
+10.1017/9781009047562,"Homer, Parmenides, and the Road to Demonstration",2022,615,11,7,43,,3,4
+10.1017/9781139235747,"Mortal and Divine in Early Greek Epistemology: A Study of Hesiod, Xenophanes and Parmenides",2017,615,11,7,43,,3,4
+10.1017/9781108921084,"Poetry and Poetics in the Presocratic Philosophers: Reading Xenophanes, Parmenides and Empedocles as Literature",2021,615,11,7,43,,3,4
+10.1017/cbo9780511498145,Kant's Doctrine of Transcendental Illusion,2001,618,12,12,19,,16,12
+10.1093/acprof:oso/9780195183221.001.0001,Another Cosmopolitanism,2006,619,2,3,24,,10,15
+10.1017/9781108181938,"Modern General Relativity: Black Holes, Gravitational Waves, and Cosmology",2019,620,3,2,34,2,9,3
+10.1017/cbo9780511818998,The Philosophical Writings of Descartes,1985,621,11,23,57,,6,4
+10.1093/oso/9780197600122.001.0001,A Better Ape: The Evolution of the Moral Mind and How it Made us Human,2022,622,2,14,33,3,10,5
+10.1017/cbo9780511612954,Social Action: A Teleological Account,2001,623,9,6,14,,15,8
+10.1017/cbo9780511921889,Information Theory: Coding Theorems for Discrete Memoryless Systems,2011,624,7,9,2,,14,2
+10.1017/cbo9780511582554,"Exploring the Black Box: Technology, Economics, and History",1994,625,10,6,31,,12,2
+10.1093/oso/9780198273134.001.0001,The Authority of the State,1990,625,10,6,31,,12,2
+10.1017/cbo9780511620874,Interaction and Grammar,1996,627,8,11,38,,11,6
+10.1017/cbo9780511611926,"Evolution and the Human Mind: Modularity, Language and Meta-Cognition",2000,628,8,11,22,,11,6
+10.1093/oso/9780198869528.001.0001,Reconsidering Causal Powers: Historical and Conceptual Perspectives,2021,629,3,2,7,,1,3
+10.1017/ccol0521366232,The Cambridge Companion to Descartes,1992,630,11,23,57,,6,4
+10.1093/acprof:oso/9780199774142.001.0001,"Minimizing MarriageMarriage, Morality, and the Law",2012,631,8,11,41,,11,6
+10.1093/oxfordhb/9780199395729.001.0001,The Oxford Handbook of the Philosophy of Love,2017,631,8,11,41,,11,6
+10.1017/cbo9780511524059,Constructing the Subject: Historical Origins of Psychological Research,1990,633,16,16,37,,18,10
+10.1093/acprof:oso/9780199972036.001.0001,Governing Knowledge Commons,2014,634,10,6,31,,12,2
+10.1093/oso/9780190937492.001.0001,Innovation Commons: The Origin of Economic Growth,2019,634,10,6,31,3,12,2
+10.1017/cbo9780511510854,Against Intellectual Monopoly,2008,636,10,6,31,,12,2
+10.1093/0198288328.001.0001,Economic Development in Palanpur over Five Decades,1998,637,10,6,31,1,12,2
+10.1017/cbo9781316286654,The Concept of Nature: Tarner Lectures,2015,638,9,10,8,,2,7
+10.1093/oso/9780198526841.001.0001,Animal Signals,2003,639,8,11,22,,11,6
+10.1093/acprof:oso/9780190622046.001.0001,"Norms in the Wild: How to Diagnose, Measure, and Change Social Norms",2017,640,2,10,9,,2,7
+10.1093/oso/9780198791478.001.0001,Reasoning: New Essays on Theoretical and Practical Thinking,2019,641,2,10,9,,2,7
+10.1093/oso/9780190904913.001.0001,The Birth of Ethics,2018,642,2,10,9,,2,7
+10.1017/cbo9781139178532,Wild Cultures: A Comparison between Chimpanzee and Human Cultures,2012,642,2,10,9,,2,7
+10.1017/cbo9780511597817,Functional Sentence Perspective in Written and Spoken Communication,1992,644,5,11,73,,11,4
+10.1093/oso/9780199545216.001.0001,Language Complexity as an Evolving Variable,2009,645,8,11,38,,11,6
+10.1093/acprof:oso/9780195375213.001.0001,Nagarjuna's Madhyamaka,2009,646,8,4,59,,7,8
+10.1093/oso/9780195103175.001.0001,The Fundamental Wisdom of the Middle Way: Nāgārjuna’s Mūlamadhyamakakārikiā,1995,646,8,4,59,,7,8
+10.1093/oso/9780195069013.001.0001,Faces in the Clouds: A New Theory of Religion,1993,648,10,6,36,,12,11
+10.1017/cbo9780511664014,Remembering Reconsidered: Ecological and Traditional Approaches to the Study of Memory,1988,649,9,6,14,,15,11
+10.1017/cbo9780511805554,"Ecological Imperialism: The Biological Expansion of Europe, 900–1900",2004,650,9,6,25,,11,7
+10.1093/acprof:oso/9780195159912.001.0001,Why Language Matters for Theory of Mind,2005,651,9,6,14,,15,8
+10.1017/cbo9781139165228,The Stag Hunt and the Evolution of Social Structure,2003,652,10,6,27,4,12,7
+10.1093/acprof:oso/9780199658428.001.0001,Structuring Mind: The Nature of Attention and how it Shapes Consciousness,2017,653,13,3,58,,8,1
+10.1093/acprof:oso/9780199288847.001.0001,The Phenomenal Self,2008,653,13,3,58,,8,1
+10.1093/acprof:oso/9780199215386.001.0001,The Unity of Consciousness,2010,653,13,3,58,,8,1
+10.1017/cbo9780511471094,The Rise of the Standard Model: A History of Particle Physics from 1964 to 1979,1997,656,1,7,39,,1,1
+10.1017/cbo9780511498299,Hegel's Concept of Action,2004,657,12,12,13,5,15,15
+10.1017/cbo9780511720185,Reasons for Action,2009,658,2,3,20,,2,8
+10.1093/acprof:oso/9780199559299.001.0001,British Idealism,2011,659,16,16,37,,18,10
+10.1093/oso/9780199291168.001.0001,Richard Dawkins: How a Scientist Changed the Way We Think,2006,660,9,6,25,,11,5
+10.1093/oso/9780195139044.001.0001,Cognitive Dimensions Of Social Science,2001,661,9,6,25,,11,7
+10.1093/oxfordhb/9780199751457.001.0001,The Oxford Handbook of Gender and Politics,2013,662,11,7,44,3,3,1
+10.1093/oso/9780195131390.001.0001,Meat-Eating & Human Evolution,2001,663,7,9,77,,5,11
+10.1093/acprof:oso/9780195331967.001.0001,Cognitive Grammar: A Basic Introduction,2008,664,8,11,41,4,11,6
+10.1093/acprof:oso/9780199794553.001.0001,Anatomy of the Mind: Exploring Psychological Mechanisms and Processes with the Clarion Cognitive Architecture,2016,665,5,8,18,,13,9
+10.1093/acprof:oso/9780198759645.001.0001,The Epistemic Life of Groups: Essays in the Epistemology of Collectives,2016,666,2,14,33,,10,5
+10.1093/oso/9780198868705.001.0001,The Practical Origins of Ideas: Genealogy as Conceptual Reverse-Engineering,2021,666,2,14,33,3,10,5
+10.1017/cbo9781139540919,Freedom Rising: Human Empowerment and the Quest for Emancipation,2013,668,2,14,33,,10,5
+10.1093/acprof:oso/9780198279679.001.0001,John Locke and America,1996,668,2,14,33,,10,5
+10.1093/oso/9780197549155.001.0001,Moral Progress,2021,668,2,14,33,,10,5
+10.1017/cbo9780511563737,Misunderstanding Science?: The Public Reconstruction of Science and Technology,1996,671,14,13,61,,4,13
+10.1017/9781139016735,Co-Operative Action,2017,672,8,11,22,,11,6
+10.1017/cbo9780511807572,Gesture Visible Action as Utterance,2004,672,8,11,22,,11,6
+10.1017/cbo9781139108669,How Language Began: Gesture and Speech in Human Evolution,2012,672,8,11,22,,11,6
+10.1093/acprof:oso/9780195163483.001.0001,The Gestural Origin of Language,2007,672,8,11,22,,11,6
+10.1093/oso/9780195115260.001.0001,Adverbs and Functional Heads: A Cross-Linguistic Perspective,1999,676,5,11,73,,6,4
+10.1017/cbo9780511752179,"Inventing our Selves: Psychology, Power, and Personhood",1996,677,16,16,76,,18,10
+10.1093/oso/9780192898197.001.0001,In Defence of the Human Being: Foundational Questions of an Embodied Anthropology,2021,678,8,6,21,3,3,10
+10.1017/cbo9780511624926,"Mathematics, Science and Epistemology",1978,679,2,7,40,,1,1
+10.1017/cbo9780511499944,"Thinking as Communicating: Human Development, the Growth of Discourses, and Mathematizing",2008,680,2,7,40,,1,1
+10.1017/cbo9780511570926,"Time, Labor, and Social Domination: A reinterpretation of marx's critical theory",1993,681,12,12,13,,17,14
+10.1093/acprof:oso/9780199646739.001.0001,Foundations of Metacognition,2012,682,5,8,18,,13,9
+10.1017/cbo9780511625053,Utilitarianism as a Public Philosophy,1995,683,12,12,42,,4,5
+10.1093/0198297688.001.0001,"Culture, Citizenship, and Community: A Contextual Exploration of Justice as Evenhandedness",2000,684,20,21,52,1,4,5
+10.1093/oso/9780195140705.001.0001,Ethical Dimensions of Health Policy,2000,685,2,3,24,,2,15
+10.1093/oso/9780195130416.001.0001,Kant’s Impure Ethics: From Rational Beings to Human Beings,2000,686,12,12,19,,16,12
+10.1093/acprof:oso/9780199641321.001.0001,The Ethics of Information,2013,687,8,11,45,,2,8
+10.1017/cbo9780511606366,Consciousness and Language,2002,688,9,6,14,,15,8
+10.1093/oso/9780199299720.001.0001,Human Enhancement,2009,689,17,17,26,,19,8
+10.1093/oxfordhb/9780199562411.001.0001,The Oxford Handbook of Bioethics,2009,690,17,17,26,,19,8
+10.1093/oso/9780198250357.001.0001,Time and Memory: Issues in Philosophy and Psychology,2001,691,9,6,14,,15,11
+10.1017/cbo9780511521546,Austin: The Province of Jurisprudence Determined,1995,692,8,11,45,,2,8
+10.1093/oso/9780195074857.001.0001,Love’s Knowledge: Essays on Philosophy and Literature,1992,693,5,8,12,,13,9
+10.1017/ccol9780521874762,The Cambridge Companion to Ancient Scepticism,2010,694,11,7,65,,3,4
+10.1093/acprof:oso/9780199588381.001.0001,The Pragmatic Maxim: Essays on Peirce and pragmatism,2012,694,11,7,65,,3,4
+10.1093/oso/9780198238379.001.0001,Transcendental Arguments: Problems And Prospects,2000,694,11,7,65,,3,4
+10.1017/cbo9780511610226,The Evolution of Morality and Religion,2003,697,12,12,42,1,16,12
+10.1017/cbo9781139172516,Kant and the Experience of Freedom: Essays on Aesthetics and Morality,1993,698,12,12,19,,16,12
+10.1093/019928282x.001.0001,Schiller as Philosopher: A Re-Examination,2005,698,12,12,19,,16,12
+10.1017/cbo9780511997747,"Understanding Moral Obligation: Kant, Hegel, Kierkegaard",2011,698,12,12,19,,16,12
+10.1093/oso/9780198829676.001.0001,"How to Count Animals, more or less",2019,701,17,17,26,,19,8
+10.1017/cbo9780511809590,Immanuel Kant: Groundwork of the Metaphysics of Morals,1998,701,17,17,26,,19,8
+10.1017/cbo9781107049512,Lectures on Ethics,1997,701,17,17,26,,19,8
+10.1093/oso/9780190634384.001.0001,Persons: A History,2019,701,17,17,26,,19,8
+10.1017/9781139939829,Empirical Bioethics: Theoretical and Practical Perspectives,2016,705,14,13,30,1,10,13
+10.1017/cbo9780511897313,From Medical Chemistry to Biochemistry: The Making of a Biomedical Discipline,1982,706,14,13,61,,4,13
+10.1017/cbo9780511894862,Sacred and Secular: Religion and Politics Worldwide,2011,707,10,6,36,1,12,11
+10.1093/acprof:oso/9780195385816.001.0001,Supernatural Selection,2010,707,10,6,36,,12,11
+10.1017/9781316459409,The Cambridge Handbook of Evolutionary Ethics,2017,707,10,6,36,,12,11
+10.1093/oxfordhb/9780195390049.001.0001,The Oxford Handbook of the Economics of Religion,2011,707,10,6,36,,12,11
+10.1093/acprof:oso/9780198732549.001.0001,The Philosophy of Trust,2017,711,2,3,20,,2,7
+10.1017/cbo9780511803864,Cognitive Linguistics,2004,712,8,11,41,4,11,6
+10.1017/cbo9780511596889,Electrical Neuroimaging,2009,713,9,10,32,4,2,7
+10.1093/acprof:oso/9780199232567.001.0001,David Hume: Moral and Political Theorist,2007,714,10,10,9,,2,7
+10.1093/acprof:oso/9780195390667.001.0001,The Enlightenment of Sympathy,2010,715,16,16,60,,18,10
+10.1017/cbo9780511676352,Adam Smith and the Circles of Sympathy: Cosmopolitanism and Moral Theory,2010,716,16,16,60,,18,10
+10.1017/9781316105672,Ethical Sentimentalism: New Perspectives,2017,716,16,16,60,,18,10
+10.1093/acprof:oso/9780198714019.001.0001,The Highest Good in Aristotle and Kant,2015,718,12,12,13,,16,12
+10.1017/cbo9780511844072,Epistemic Game Theory: Reasoning and Choice,2012,719,9,6,25,,11,7
+10.1017/cbo9781139924825,Evolution of the Social Contract,2014,719,9,6,25,,11,7
+10.1093/oso/9780195121933.001.0001,The Changing Nervous System: Neurobehavioral Consequences of Early Brain Disorders,1999,721,8,11,38,,11,6
+10.1017/cbo9780511610318,How the Cold War Transformed Philosophy of Science: To the Icy Slopes of Logic,2005,722,16,16,37,2,18,10
+10.1093/oxfordhb/9780199219315.001.0001,The Oxford Handbook of American Philosophy,2008,723,16,16,37,,18,10
+10.1017/cbo9781139172875,Idealism and Freedom: Essays on Kant's Theoretical and Practical Philosophy,1996,724,12,12,19,,16,12
+10.1093/oso/9780190692100.001.0001,"Kant on Evil, Self-Deception, and Moral Reform",2018,724,12,12,19,,16,12
+10.1017/cbo9780511763250,Kant's 'Metaphysics of Morals': A Critical Guide,2010,724,12,12,19,,16,12
+10.1017/cbo9781139176170,Kant's Lectures on Anthropology: A Critical Guide,2014,724,12,12,19,,16,12
+10.1093/oso/9780198766858.001.0001,Thinking about the Emotions,2017,724,12,12,19,,16,12
+10.1093/oso/9780198236979.001.0001,Consciousness and Mind,2005,729,11,3,28,,8,4
+10.1093/oso/9780192631886.001.0001,Music And Emotion: Theory and research,2001,730,9,19,50,,20,6
+10.1017/cbo9781139225717,"Science, Democracy, and the American University: From the Civil War to the Cold War",2012,731,16,16,37,2,18,10
+10.1017/cbo9780511490866,The Market for Force: The Consequences of Privatizing Security,2005,732,14,13,29,1,12,11
+10.1017/cbo9780511790799,"The Rights of Others: Aliens, Residents, and Citizens",2004,733,2,3,24,1,10,15
+10.1093/0199274908.001.0001,Democracy Beyond Borders: Justice and Representation in Global Institutions,2004,734,2,3,24,1,10,15
+10.1017/cbo9780511614484,Human Identity and Bioethics,2005,735,2,14,63,,10,5
+10.1093/oso/9780195082890.001.0001,The Virtues In Medical Practice,1993,735,2,14,63,,10,5
+10.1017/cbo9780511814594,Responsibility and Control: A Theory of Moral Responsibility,1998,737,12,12,42,,16,12
+10.1017/cbo9780511635649,Pragmatics and Non-Verbal Communication,2009,738,9,6,14,,15,8
+10.1093/acprof:oso/9780199283781.001.0001,Self-Expression,2007,738,9,6,14,,15,8
+10.1017/cbo9781139025935,Husserl's Crisis of the European Sciences and Transcendental Phenomenology: An Introduction,2012,740,16,16,37,,18,10
+10.1093/acprof:oso/9780199662586.001.0001,"Morality, Authority, and Law: Essays in Second-Personal Ethics I",2013,741,2,3,20,,2,7
+10.1017/cbo9780511489136,The Politics of Personalised Medicine: Pharmacogenetics in the Clinic,2004,742,14,13,61,1,10,13
+10.1093/oso/9780195189285.001.0001,Infotopia How Many Minds Produce Knowledge,2006,743,5,8,12,,13,9
+10.1093/0195161920.001.0001,On Female Body Experience: “Throwing Like a Girl” and Other Essays,2005,744,14,13,30,,10,13
+10.1093/oso/9780195123333.001.0001,"Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self",2000,745,14,13,30,,10,13
+10.1093/0195140419.001.0001,Gender in the Mirror: Cultural Imagery and Women's Agency,2002,746,14,13,30,1,10,13
+10.1093/acprof:oso/9780199609581.001.0001,Art and Pornography: Philosophical Essays,2012,747,14,13,30,,10,13
+10.1093/oxfordhb/9780199279456.001.0001,The Oxford Handbook of Aesthetics,2009,747,14,13,30,,10,13
+10.1093/oxfordhb/9780199590162.001.0001,The Oxford Handbook of the Sociology of Finance,2012,747,14,13,30,,10,13
+10.1017/cbo9780511559143,The Retreat of the State: The Diffusion of Power in the World Economy,1996,750,14,13,29,,10,13
+10.1093/acprof:oso/9780198262138.001.0001,Law and Disagreement,1999,751,14,13,29,,10,13
+10.1017/cbo9781107479852,"Civility, Legality, and Justice in America",2014,752,14,13,29,1,10,13
+10.1017/cbo9780511597145,Globalising Australian Capitalism,1996,753,14,13,29,,10,13
+10.1017/cbo9780511521577,Multinational Democracies,2001,754,14,13,29,,10,13
+10.1017/cbo9780511490460,The Philosopher in Early Modern Europe: The Nature of a Contested Identity,2006,755,15,15,17,,17,14
+10.1017/cbo9781107340855,In Search of the Ultimate Building Blocks,1996,756,2,11,45,,2,8
+10.1017/cbo9780511597923,Foucault on Freedom,2005,757,2,3,20,1,2,8
+10.1093/oso/9780198716761.001.0001,Being and Freedom: On Late Modern Ethics in Europe,2021,758,12,12,13,3,2,7
+10.1093/acprof:oso/9780195399608.001.0001,Argument and Persuasion in Descartes’ Meditations,2010,759,11,23,57,,6,4
+10.1017/cbo9781139030731,Descartes' Meditations: A Critical Guide,2012,759,11,23,57,,6,4
+10.1093/acprof:oso/9780199583652.001.0001,Matter Matters: Metaphysics and Methodology in the Early Modern Period,2010,759,11,23,57,5,6,4
+10.1017/ccol0521770599,The Cambridge Companion to Adam Smith,2006,762,10,10,9,,2,7
+10.1017/cbo9780511581212,Adam Smith and the Character of Virtue,2009,763,10,10,9,1,2,7
+10.1093/oso/9780198863984.001.0001,The Epistemic Innocence of Irrational Beliefs,2020,764,2,10,9,3,2,7
+10.1017/cbo9780511610196,Adam Smith's Marketplace of Life,2002,765,10,10,9,1,2,7
+10.1093/oso/9780190690120.001.0001,Adam Smith,2017,766,10,10,9,,2,7
+10.1093/acprof:oso/9780195341065.001.0001,Altruism in Humans,2010,766,10,10,9,,2,7
+10.1093/oso/9780199832194.001.0001,Strategic Justice,2018,766,10,10,9,,2,7
+10.1017/9781139506403,A History of the Roman Equestrian Order,2018,769,6,5,4,1,4,5
+10.1017/cbo9780511606410,Bringing Ritual to Mind: Psychological Foundations of Cultural Forms,2002,770,10,6,46,4,15,11
+10.1093/oso/9780199238019.001.0001,Oxford Studies in Ancient Philosophy,2007,771,3,2,,,14,3
+10.1017/cbo9780511610479,Argument Realization,2005,772,5,11,73,,6,4
+10.1017/9781108182324,Metaphor: Embodied Cognition and Discourse,2017,773,11,7,67,,3,4
+10.1093/acprof:oso/9780199859948.001.0001,A Theory of Fields,2012,774,16,16,37,,18,10
+10.1093/oso/9780190923624.001.0001,"Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics",2018,775,2,10,9,,2,7
+10.1093/oso/9780192893338.001.0001,Political Epistemology,2021,775,2,10,9,3,2,7
+10.1017/9781108453004,Stand out of our Light: Freedom and Resistance in the Attention Economy,2018,775,2,10,9,,2,7
+10.1017/cbo9781139047388,Hobbes Today: Insights for the 21st Century,2012,778,14,13,24,1,10,15
+10.1017/cbo9780511557842,Qualitative Analysis for Social Scientists,1987,779,14,13,61,,4,13
+10.1017/cbo9780511808012,Hegel: Elements of the Philosophy of Right,1991,780,14,13,24,,10,15
+10.1093/acprof:oso/9780198715672.001.0001,Responsibility from the Margins,2015,781,12,12,42,,16,12
+10.1093/acprof:oso/9780199913671.001.0001,The Education of Selves: How Psychology Transformed Students,2013,782,16,16,76,,18,10
+10.1093/oso/9780195313024.001.0001,What You Must Think of Me: A Firsthand Account of One Teenager’s Experience With Social Anxiety Disorder,2007,782,16,16,76,,18,10
+10.1017/cbo9781316286494,Experience and its Modes,2015,784,20,21,52,,4,5
+10.1093/acprof:oso/9780199289172.001.0001,Multiculturalism and the Welfare State,2006,784,20,21,52,,4,5
+10.1017/cbo9780511524073,Philosophy and Pluralism,1996,784,20,21,52,,4,5
+10.1093/acprof:oso/9780198795452.001.0001,The Strains of Commitment: The Political Sources of Solidarity in Diverse Societies,2017,784,20,21,52,,4,5
+10.1093/oso/9780198242246.001.0001,A Theory of Language and Information: A Mathematical Approach,1991,788,2,7,40,,6,1
+10.1017/cbo9780511811890,Neuroethics: Challenges for the 21st Century,2007,789,17,17,26,,19,8
+10.1093/acprof:oso/9780199665372.001.0001,Understanding and Using Health Experiences: Improving patient care,2013,790,5,8,12,,13,9
+10.1093/acprof:oso/9780195373660.001.0001,Making Amends,2009,791,12,12,42,,16,12
+10.1093/oso/9780195087628.001.0001,"Practical Guilt: Moral Dilemmas, Emotions, and Social Norms",1995,791,12,12,42,,16,12
+10.1093/acprof:oso/9780199355549.001.0001,What's Wrong With Morality?: A Social-Psychological Perspective,2015,791,12,12,42,,16,12
+10.1093/oso/9780198843900.001.0001,How To Be Trustworthy,2019,794,2,3,68,3,2,7
+10.1017/cbo9781139163569,Natural Rights Theories: Their Origin and Development,1979,795,14,13,24,,10,15
+10.1017/cbo9781107415324,Climate Change 2013 – The Physical Science Basis: Working Group I Contribution to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change,2014,796,9,19,50,,20,6
+10.1093/oso/9780198529613.001.0001,The New Handbook of Methods in Nonverbal Behavior Research,2005,796,9,19,50,,20,6
+10.1093/acprof:oso/9780198567424.001.0001,The Social and Applied Psychology of Music,2008,796,9,19,50,,20,6
+10.1093/acprof:oso/9780195151947.001.0001,Ways of Listening,2005,796,9,19,50,,20,6
+10.1093/acprof:oso/9780195179644.001.0001,What the Face RevealsBasic and Applied Studies of Spontaneous Expression Using the Facial Action Coding System (FACS),2005,796,9,19,50,,20,6
+10.1017/cbo9780511809644,Kant: The Metaphysics of Morals,1996,801,14,13,24,,10,15
+10.1017/cbo9780511800726,An Introduction to Africana Philosophy,2008,802,14,13,30,,10,13
+10.1093/0195179145.001.0001,Burdened Virtues: Virtue Ethics for Liberatory Struggles,2005,803,14,13,29,1,10,13
+10.1017/9781108334945,Healthy Conflict in Contemporary American Society: From Enemy to Adversary,2018,803,14,13,29,,10,13
+10.1093/oso/9780198277880.001.0001,The Archetypal Actions Of Ritual: A Theory Of Ritual Illustrated By The Jain Rite Of Worship,1994,805,10,6,46,,15,11
+10.1017/cbo9781139028011,Mill and Paternalism,2013,806,12,12,13,,16,7
+10.1093/acprof:oso/9780199915262.001.0001,"Rethinking Pluralism: Ritual, Experience, and Ambiguity",2012,807,10,6,46,,15,11
+10.1017/cbo9781139005128,The Rationalization of Miracles,2012,807,10,6,46,,15,11
+10.1093/acprof:oso/9780199557011.001.0001,The Sacred in the Modern World: A Cultural Sociological Approach,2012,807,10,6,46,,15,11
+10.1017/cbo9780511527722,"The Self-Society Dynamic: Cognition, Emotion and Action",1991,807,10,6,46,,15,11
+10.1093/0198294964.001.0001,"Debating Democracy's Discontent: Essays on American Politics, Law, and Public Philosophy",1998,811,10,10,9,,2,7
+10.1017/9780511844317,Designing in Ethics,2017,812,11,7,67,,3,4
+10.1017/cbo9780511597961,The Animals Issue: Moral Theory in Practice,1992,812,11,7,67,,3,4
+10.1017/9781108591386,"Industry Unbound: The Inside Story of Privacy, Data, and Corporate Power",2021,814,2,3,68,,2,7
+10.1093/oso/9780190088583.001.0001,The Brussels Effect: How the European Union Rules the World,2019,814,2,3,68,,2,7
+10.1017/cbo9781139680516,Essays on Religion and Human Rights: Ground to Stand On,2015,816,14,13,24,1,10,15
+10.1017/cbo9781316106693,"Religion and Public Policy: Human Rights, Conflict, and Ethics",2015,816,14,13,24,1,10,15
+10.1093/acprof:oso/9780190234836.001.0001,The Right to Be Loved,2015,818,14,13,24,,10,15
+10.1017/cbo9780511627972,'Religion' and the Religions in the English Enlightenment,1990,,,,,,,
+10.1093/oso/9780199283262.001.0001,A Brief History of Neoliberalism,2005,,,,,,,
+10.1093/acprof:oso/9780199229826.001.0001,A Confusion of the Spheres,2007,,,,,,,
+10.1017/cbo9781107050860,A History of Nepal,2005,,28,29,78,,28,22
+10.1093/oso/9780190883201.001.0001,A Story of Us: A New Look at Human Evolution,2021,,,,,,,
+10.1017/cbo9781139149839,"A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence, and the Methods of Scientific Investigation",2011,,,,,,,
+10.1017/cbo9780511660320,"Algernon Sidney and the Restoration Crisis, 1677–1683",1991,,,,,,,
+10.1093/acprof:oso/9780199368136.001.0001,American Gurus: From Transcendentalism to New Age Religion,2014,,,,,,,
+10.1093/oso/9780198277330.001.0001,Anthropology Art and Aesthetics,1992,,,,,,,
+10.1017/cbo9780511558245,Archaeology as Human Ecology: Method and Theory for a Contextual Approach,1982,,,,,,,
+10.1093/oso/9780198280132.001.0001,Art And Agency: An Anthropological Theory,1998,,26,27,72,,26,20
+10.1017/cbo9781139017466,Astrology and Cosmology in Early China: Conforming Earth to Heaven,2013,,,,,,,
+10.1017/cbo9781139087759,Bayesian Cognitive Modeling: A Practical Course,2014,,,,,,,
+10.1093/oso/9780198823735.001.0001,"Becoming Someone New: Essays on Transformative Experience, Choice, and Change",2020,,30,31,80,,30,24
+10.1093/oso/9780190949983.001.0001,Believing in Bits: Digital Media and the Supernatural,2019,,,,,,,
+10.1017/cbo9781139568050,Bernard Riemann's gesammelte mathematische Werke und wissenschaftlicher Nachlass,2013,,,,,,,
+10.1093/acprof:oso/9780199570560.001.0001,Between Ecstasy and TruthInterpretations of Greek Poetics from Homer to Longinus,2012,,22,22,55,,22,17
+10.1017/cbo9780511571480,Between Politics and Science: Assuring the Integrity and Productivity of Reseach,2000,,,,,,,
+10.1017/cbo9780511665080,"Building a New American State: The Expansion of National Administrative Capacities, 1877–1920",1982,,19,20,51,,21,16
+10.1017/cbo9780511607806,By Means of Performance: Intercultural Studies of Theatre and Ritual,1990,,,,,,,
+10.1017/cbo9780511520891,Challenging Codes: Collective Action in the Information Age,1996,,,,,,,
+10.1093/0199253668.001.0001,Citizenship and Education in Liberal-Democratic Societies: Teaching for Cosmopolitan Values and Collective Identities,2003,,23,24,69,,23,15
+10.1093/oso/9780190855369.001.0001,City Living: How Urban Spaces and Urban Dwellers Make One Another,2021,,,,,,,
+10.1093/acprof:oso/9780199236442.001.0001,Classical Culture and Modern Masculinity,2011,,22,22,55,,22,17
+10.1017/cbo9781139225182,Climate and Time in their Geological Relations: A Theory of Secular Changes of the Earth's Climate,2012,,29,30,79,,29,23
+10.1017/cbo9780511581601,Clinical Pragmatics,2009,,,,,,,
+10.1093/acprof:oso/9780199794539.001.0001,Commonsense ConsequentialismWherein Morality Meets Rationality,2011,,,,,,,
+10.1017/cbo9780511758744,Complex Systems,2000,,,,,,,
+10.1093/oso/9780198712732.001.0001,"Conditionals, Paradox, and Probability: Themes from the Philosophy of Dorothy Edgington",2021,,,,,,,
+10.1017/cbo9781139225724,Constitutional Change and Democracy in Indonesia,2013,,,,,1,,5
+10.1093/acprof:oso/9780199580576.001.0001,Constructions of Neoliberal Reason,2010,,,,,,,
+10.1093/oso/9780198279600.001.0001,"Contested Hierarchies: A Collaborative Ethnography of Caste among the Newars of the Kathmandu Valley, Nepal",1995,,28,29,78,,28,22
+10.1093/acprof:oso/9780195158601.001.0001,Creatures of Empire: How Domestic Animals Transformed Early America,2004,,26,27,72,,26,20
+10.1017/cbo9780511804618,"Crime, Shame and Reintegration",1989,,,,,,,
+10.1017/cbo9780511804656,Critique of the Power of Judgment,2000,,,,,,,
+10.1017/cbo9780511804687,Culture and Rights: Anthropological Perspectives,2001,,28,29,78,,28,22
+10.1017/cbo9780511496714,Culture Wars: Secular-Catholic Conflict in Nineteenth-Century Europe,2003,,,,,,,
+10.1093/acprof:oso/9780198266587.001.0001,Divine and Contingent Order,1981,,,,,,,
+10.1093/0195152034.001.0001,"Environmental Justice: Creating Equality, Reclaiming Democracy",2002,,,,,,,
+10.1093/acprof:oso/9780199232987.001.0001,Epic,2008,,,,,,,
+10.1017/cbo9780511542022,Evolutionary Conservation Biology,2004,,25,26,71,,25,19
+10.1093/acprof:oso/9780190281069.001.0001,"Exploring Robotic Minds: Actions, Symbols, and Consciousness as Self-Organizing Dynamic Phenomena",2016,,,,,,,
+10.1093/oso/9780198530961.001.0001,Foundations of Modern Cosmology,2005,,,,,,,
+10.1093/acprof:oso/9780199391684.001.0001,From Field to Fork: Food Ethics for Everyone,2015,,,,,,,
+10.1017/cbo9780511529672,"From Knowledge to Power: The Rise of the Science Empire in France, 1860–1939",1985,,24,25,70,,24,18
+10.1017/cbo9780511558030,From the Milk River: Spatial and Temporal Processes in Northwest Amazonia,1980,,,,,,,
+10.1093/acprof:osobl/9780199697267.001.0001,Global Environments through the Quaternary: Exploring Evironmental Change,2013,,29,30,79,,29,23
+10.1093/acprof:oso/9780195118667.001.0001,Handbook of Religion and Health,2001,,,,,,,
+10.1017/cbo9781139520201,Hegel and the Metaphysics of Absolute Negativity,2013,,,,,,,
+10.1017/cbo9780511624780,"Hegel, Nietzsche and the Criticism of Metaphysics",1986,,,,,,,
+10.1017/cbo9780511558696,Hind Swaraj,1997,,,,,,,
+10.1093/acprof:oso/9780198117919.001.0001,In Defence of Rhetoric,1989,,,,,,,
+10.1017/cbo9780511810268,John Locke Two Treatises of Government,1988,,,,,,,
+10.1017/cbo9780511490385,"Justice without Borders: Cosmopolitanism, Nationalism, and Patriotism",2004,,23,24,69,1,23,15
+10.1017/cbo9781139167567,Lectures on the Philosophy of World History,1975,,,,,,,
+10.1093/oso/9780195113990.001.0001,Leibniz & Clarke: A Study of Their Correspondence,1997,,,,,,,
+10.1017/cbo9781139086707,Linguistic Evolution: With Special Reference to English,1972,,27,28,75,,27,21
+10.1017/cbo9780511659201,Listening to the Cicadas: A Study of Plato's Phaedrus,1987,,22,22,55,,22,17
+10.1017/cbo9781139166768,"Logic or the Art of Thinking: Containing, besides common rules, several new observations appropriate for forming judgment",1996,,,,,,,
+10.1017/cbo9780511735691,Machina Carnis: The Biochemistry of Muscular Contraction in its Historical Development,1971,,,,,,,
+10.1093/oso/9780195136265.001.0001,Making Crime Pay: Law and Order in Contemporary American Politics,1999,,,,,,,
+10.1093/acprof:oso/9780198732617.001.0001,Making Medical Knowledge,2015,,,,,,,
+10.1093/oso/9780195105032.001.0001,Manufacturing Religion: The Discourse on Sui Generis Religion and the Politics of Nostalgia,1997,,,,,,,
+10.1017/cbo9781139567787,Mathematische Werke: Herausgegeben unter Mitwirkung einer von der königlich preussischen Akademie der Wissenschaften eingesetzten Commission,2013,,,,,,,
+10.1093/oso/9780197512531.001.0001,Measuring Well-Being: Interdisciplinary Perspectives from the Social Sciences and the Humanities,2021,,,,,3,,7
+10.1093/oso/9780199292424.001.0001,Modality,2009,,,,,,,
+10.1017/cbo9780511565670,Models and Computability,1999,,,,,,,
+10.1093/oso/9780195049121.001.0001,Morphogenesis and Evolution,1988,,,,,,,
+10.1093/oso/9780198295341.001.0001,Myths and Memories of the N1ation,1999,,,,,,,
+10.1017/cbo9780511599699,"Nationalism and Internationalism in Science, 1880–1939: Four Studies of the Nobel Population",1992,,24,25,70,,24,18
+10.1093/oso/9780195080544.001.0001,Negation and Clausal Structure: A Comparative Study of Romance Languages,1997,,,,,,,
+10.1017/9781108616188,Next-Generation Ethics: Engineering a Better Society,2019,,,,,1,,8
+10.1093/oso/9780190840518.001.0001,Oneness,2017,,,,,,,
+10.1093/oso/9780198522546.001.0001,Optimum Experimental Designs,1992,,,,,,,
+10.1017/cbo9780511625169,Opus Postumum,1993,,,,,,,
+10.1017/cbo9780511627736,Papers in Laboratory Phonology,1990,,27,28,75,,27,21
+10.1017/cbo9780511753459,Patterns of Sounds,1984,,27,28,75,,27,21
+10.1093/acprof:oso/9780192132307.001.0001,Perfect Fools,1980,,,,,,,
+10.1017/cbo9780511489150,Pharmaceutical Reason: Knowledge and Value in Global Psychiatry,2006,,,,,,,
+10.1093/acprof:oso/9780199669653.001.0001,Phenomenology of Illness,2016,,30,31,80,,30,24
+10.1093/oso/9780195138962.001.0001,Phenotypic Plasticity: Functional and Conceptual Approaches,2004,,25,26,71,,25,19
+10.1017/cbo9780511622526,Physics of Crystal Growth,1998,,,,,,,
+10.1017/cbo9781139003377,Plato and the Traditions of Ancient Literature: The Silent Stream,2012,,22,22,55,,22,17
+10.1017/cbo9781139162265,Plato's Erotic World: From Cosmic Origins to Human Death,2012,,22,22,55,,22,17
+10.1017/cbo9780511975950,Practical Ethics,2011,,,,,,,
+10.1017/cbo9780511542404,Primates Face to Face: The Conservation Implications of Human-nonhuman Primate Interconnections,2002,,26,27,72,,26,20
+10.1093/oso/9780195104295.001.0001,"Punishment, Communication, and Community",2000,,,,,,,
+10.1093/acprof:oso/9780199744077.001.0001,Reasons as Defaults,2012,,,,,,,
+10.1093/acprof:oso/9780199380275.001.0001,"Reconstructing Reality: Models, Mathematics, and Simulations",2015,,,,,,,
+10.1093/acprof:oso/9780199587049.001.0001,Revolutions that made the Earth,2011,,,,,,,
+10.1093/oso/9780195130355.001.0001,Rhetoric and Poetics In Antiquity,2000,,,,,,,
+10.1093/acprof:oso/9780198757757.001.0001,Ritualized Faith: Essays on the Philosophy of Liturgy,2016,,,,,,,
+10.1093/oso/9780190081713.001.0001,"Science, Technology, and Virtues: Contemporary Perspectives",2021,,,,,3,,1
+10.1017/cbo9780511628719,Scientific Controversies: Case Studies in the Resolution and Closure of Disputes in Science and Technology,1987,,24,25,70,,24,18
+10.1093/acprof:oso/9780195171242.001.0001,"Self-Help, Inc.: Makeover Culture in American Life",2005,,,,,,,
+10.1017/cbo9780511550546,Shelley and the Revolutionary Sublime,2005,,,,,1,,7
+10.1093/oso/9780198268574.001.0001,Smart Regulation: Designing Environmental Policy,1998,,,,,,,
+10.1093/0195146808.001.0001,"Spiritual, but not Religious: Understanding Unchurched America",2001,,,,,,,
+10.1093/oso/9780195115994.001.0001,Suffering and Moral Responsibility,1999,,,,,,,
+10.1093/acprof:oso/9780199287956.001.0001,"Teleology, First Principles, and Scientific Method in Aristotle's Biology",2012,,,,,,,
+10.1017/cbo9780511606724,The American Ballot Box in the Mid-Nineteenth Century,2004,,19,20,51,,21,16
+10.1093/0199263264.001.0001,The Architecture of Matter: Galileo to Kant,2004,,,,,,,
+10.1093/acprof:oso/9780198296034.001.0001,The Audit Society,1999,,19,20,51,,21,16
+10.1017/ccol0521849772,The Cambridge Companion to Hayek,2006,,,,,,,
+10.1017/ccol9780521860901,The Cambridge Companion to Philo,2009,,,,,,,
+10.1093/oso/9780195131079.001.0001,"The Claim of Reason: Wittgenstein, Skepticism, Morality, And Tragedy",1999,,,,,,,
+10.1093/acprof:oso/9780198570394.001.0001,The Cognitive Neuroscience of Working Memory,2007,,,,,,,
+10.1093/oso/9780195170085.001.0001,"The Fountain of Youth: Cultural, Scientific, And Ethical Perspectives On A Biomedical Goal",2004,,,,,,,
+10.1017/9781108975452,The Future of Medical Device Regulation: Innovation and Protection,2022,,,,,4,,4
+10.1017/cbo9780511977947,"The Global Cryosphere: Past, Present and Future",2011,,29,30,79,,29,23
+10.1017/cbo9780511818103,"The Holy Reich: Nazi Conceptions of Christianity, 1919–1945",2003,,,,,1,,11
+10.1017/cbo9780511818110,The Honest Broker: Making Sense of Science in Policy and Politics,2007,,,,,,,
+10.1093/oso/9780198811930.001.0001,The Interoceptive Mind,2018,,,,,,,
+10.1017/cbo9780511520990,"The Invention of the Passport: Surveillance, Citizenship and the State",1999,,19,20,51,,21,16
+10.1017/cbo9781107295636,The Invention of Tradition,2012,,,,,,,
+10.1093/acprof:oso/9780198269502.001.0001,The Kindness of God,2008,,,,,,,
+10.1093/oso/9780195092158.001.0001,The Logical Foundations of Cognition,1994,,,,,,,
+10.1093/oso/9780195313048.001.0001,The Loss of Sadness: How Psychiatry Transformed Normal Sorrow into Depressive Disorder,2007,,,,,,,
+10.1017/9781108871044,The Making of Responsible Innovation,2020,,,,,2,,15
+10.1093/oso/9780195093643.001.0001,The Memory Of The Modern,1996,,19,20,51,,21,16
+10.1093/0195046641.001.0001,The Moral Limits of the Criminal Law Volume 1: Harm to Others,1987,,,,,,,
+10.1017/9781108225120,The Origins of Behavioural Public Policy,2017,,,,,,,
+10.1093/oxfordhb/9780195301052.001.0001,The Oxford Handbook of Millennialism,2011,,,,,,,
+10.1093/oxfordhb/9780199560219.001.0001,The Oxford Handbook of Regulation,2010,,,,,,,
+10.1017/cbo9780511614743,The Political Philosophy of Cosmopolitanism,2005,,23,24,69,1,23,15
+10.1093/acprof:oso/9780195140392.001.0001,The Right to Exploit,2009,,,,,,,
+10.1017/cbo9781139170123,Theory Construction and Selection in Modern Physics: The S Matrix,1990,,,,,,,
+10.1017/cbo9780511840258,Thermodynamics of Natural Systems,2005,,25,26,71,,25,19
+10.1093/acprof:oso/9780195112252.001.0001,Tradition and Modernity,1997,,,,,,,
+10.1093/acprof:oso/9780198717959.001.0001,Transformative Experience,2014,,30,31,80,,30,24
+10.1093/acprof:oso/9780198122838.001.0001,Victorian Psychology and British Culture 1850–1880,2000,,,,,,,
+10.1093/acprof:oso/9780198530671.001.0001,Visual Masking,2006,,,,,,,
+10.1017/cbo9781139173704,"Wisdom: Its Nature, Origins, and Development",1990,,,,,,,
+10.1093/0195080009.001.0001,Wittgenstein on Mind and Language,1995,,,,,,,
+10.1017/9781009276061,Wittgenstein on Religious Belief,2023,,,,,1,,5
+10.1017/cbo9780511488955,Work to Welfare: How Men Become Detached from the Labour Market,2003,,,,,1,,5
